@@ -1,0 +1,851 @@
+"","Border","Sector","State.Territory","Year","Type","Number_Arrested"
+"1","Coast","Livermore","CA",2000,"All",6205
+"2","Coast","Miami","FL, GA, SC, NC",2000,"All",6237
+"3","Coast","New Orleans","LA, AL, MS, FL",2000,"All",6478
+"4","Coast","Ramey","PR",2000,"All",1731
+"5","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2000,"All",20651
+"6","North","Blaine","WA, OR",2000,"All",2581
+"7","North","Buffalo","NY, PA",2000,"All",1570
+"8","North","Detroit","OH, MI, IN, IL",2000,"All",2057
+"9","North","Grand Forks","WI, MN, ND",2000,"All",562
+"10","North","Havre","MT",2000,"All",1568
+"11","North","Houlton","ME",2000,"All",489
+"12","North","Spokane","MT, ID, WA",2000,"All",1324
+"13","North","Swanton","NH, VT, NY",2000,"All",1957
+"14","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2000,"All",12108
+"15","Southwest","Big Bend","TX",2000,"All",13689
+"16","Southwest","Del Rio","TX",2000,"All",157178
+"17","Southwest","El Centro","CA",2000,"All",238126
+"18","Southwest","El Paso","NM, TX",2000,"All",115696
+"19","Southwest","Laredo","TX",2000,"All",108973
+"20","Southwest","Rio Grande Valley","TX",2000,"All",133243
+"21","Southwest","San Diego","CA",2000,"All",151681
+"22","Southwest","Tucson","AZ",2000,"All",616346
+"23","Southwest","Yuma","CA, AZ",2000,"All",108747
+"24","Southwest","All","CA, AZ, NM, TX",2000,"All",1643679
+"25","United States","","USA",2000,"All",1676438
+"26","Coast","Livermore","CA",2000,"Mexicans",6034
+"27","Coast","Miami","FL, GA, SC, NC",2000,"Mexicans",2421
+"28","Coast","New Orleans","LA, AL, MS, FL",2000,"Mexicans",5985
+"29","Coast","Ramey","PR",2000,"Mexicans",0
+"30","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2000,"Mexicans",14440
+"31","North","Blaine","WA, OR",2000,"Mexicans",1560
+"32","North","Buffalo","NY, PA",2000,"Mexicans",978
+"33","North","Detroit","OH, MI, IN, IL",2000,"Mexicans",1634
+"34","North","Grand Forks","WI, MN, ND",2000,"Mexicans",373
+"35","North","Havre","MT",2000,"Mexicans",1375
+"36","North","Houlton","ME",2000,"Mexicans",135
+"37","North","Spokane","MT, ID, WA",2000,"Mexicans",1205
+"38","North","Swanton","NH, VT, NY",2000,"Mexicans",102
+"39","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2000,"Mexicans",7362
+"40","Southwest","Big Bend","TX",2000,"Mexicans",12851
+"41","Southwest","Del Rio","TX",2000,"Mexicans",150467
+"42","Southwest","El Centro","CA",2000,"Mexicans",236346
+"43","Southwest","El Paso","NM, TX",2000,"Mexicans",114299
+"44","Southwest","Laredo","TX",2000,"Mexicans",105637
+"45","Southwest","Rio Grande Valley","TX",2000,"Mexicans",122501
+"46","Southwest","San Diego","CA",2000,"Mexicans",150599
+"47","Southwest","Tucson","AZ",2000,"Mexicans",614145
+"48","Southwest","Yuma","CA, AZ",2000,"Mexicans",108236
+"49","Southwest","All","CA, AZ, NM, TX",2000,"Mexicans",1615081
+"50","United States","","USA",2000,"Mexicans",1636883
+"51","Coast","Livermore","CA",2001,"All",5211
+"52","Coast","Miami","FL, GA, SC, NC",2001,"All",5962
+"53","Coast","New Orleans","LA, AL, MS, FL",2001,"All",5033
+"54","Coast","Ramey","PR",2001,"All",1952
+"55","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2001,"All",18158
+"56","North","Blaine","WA, OR",2001,"All",2089
+"57","North","Buffalo","NY, PA",2001,"All",1434
+"58","North","Detroit","OH, MI, IN, IL",2001,"All",2106
+"59","North","Grand Forks","WI, MN, ND",2001,"All",921
+"60","North","Havre","MT",2001,"All",1305
+"61","North","Houlton","ME",2001,"All",685
+"62","North","Spokane","MT, ID, WA",2001,"All",1335
+"63","North","Swanton","NH, VT, NY",2001,"All",2463
+"64","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2001,"All",12338
+"65","Southwest","Big Bend","TX",2001,"All",12087
+"66","Southwest","Del Rio","TX",2001,"All",104875
+"67","Southwest","El Centro","CA",2001,"All",172852
+"68","Southwest","El Paso","NM, TX",2001,"All",112857
+"69","Southwest","Laredo","TX",2001,"All",87068
+"70","Southwest","Rio Grande Valley","TX",2001,"All",107844
+"71","Southwest","San Diego","CA",2001,"All",110075
+"72","Southwest","Tucson","AZ",2001,"All",449675
+"73","Southwest","Yuma","CA, AZ",2001,"All",78385
+"74","Southwest","All","CA, AZ, NM, TX",2001,"All",1235718
+"75","United States","","USA",2001,"All",1266214
+"76","Coast","Livermore","CA",2001,"Mexicans",5007
+"77","Coast","Miami","FL, GA, SC, NC",2001,"Mexicans",1590
+"78","Coast","New Orleans","LA, AL, MS, FL",2001,"Mexicans",4616
+"79","Coast","Ramey","PR",2001,"Mexicans",0
+"80","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2001,"Mexicans",11213
+"81","North","Blaine","WA, OR",2001,"Mexicans",1214
+"82","North","Buffalo","NY, PA",2001,"Mexicans",850
+"83","North","Detroit","OH, MI, IN, IL",2001,"Mexicans",1772
+"84","North","Grand Forks","WI, MN, ND",2001,"Mexicans",755
+"85","North","Havre","MT",2001,"Mexicans",1153
+"86","North","Houlton","ME",2001,"Mexicans",300
+"87","North","Spokane","MT, ID, WA",2001,"Mexicans",1252
+"88","North","Swanton","NH, VT, NY",2001,"Mexicans",148
+"89","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2001,"Mexicans",7444
+"90","Southwest","Big Bend","TX",2001,"Mexicans",11107
+"91","Southwest","Del Rio","TX",2001,"Mexicans",100265
+"92","Southwest","El Centro","CA",2001,"Mexicans",171866
+"93","Southwest","El Paso","NM, TX",2001,"Mexicans",110679
+"94","Southwest","Laredo","TX",2001,"Mexicans",82460
+"95","Southwest","Rio Grande Valley","TX",2001,"Mexicans",95287
+"96","Southwest","San Diego","CA",2001,"Mexicans",109281
+"97","Southwest","Tucson","AZ",2001,"Mexicans",446471
+"98","Southwest","Yuma","CA, AZ",2001,"Mexicans",77974
+"99","Southwest","All","CA, AZ, NM, TX",2001,"Mexicans",1205390
+"100","United States","","USA",2001,"Mexicans",1224047
+"101","Coast","Livermore","CA",2002,"All",4371
+"102","Coast","Miami","FL, GA, SC, NC",2002,"All",5143
+"103","Coast","New Orleans","LA, AL, MS, FL",2002,"All",4665
+"104","Coast","Ramey","PR",2002,"All",835
+"105","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2002,"All",15014
+"106","North","Blaine","WA, OR",2002,"All",1732
+"107","North","Buffalo","NY, PA",2002,"All",1102
+"108","North","Detroit","OH, MI, IN, IL",2002,"All",1511
+"109","North","Grand Forks","WI, MN, ND",2002,"All",1369
+"110","North","Havre","MT",2002,"All",1463
+"111","North","Houlton","ME",2002,"All",432
+"112","North","Spokane","MT, ID, WA",2002,"All",1142
+"113","North","Swanton","NH, VT, NY",2002,"All",1736
+"114","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2002,"All",10487
+"115","Southwest","Big Bend","TX",2002,"All",11392
+"116","Southwest","Del Rio","TX",2002,"All",66985
+"117","Southwest","El Centro","CA",2002,"All",108273
+"118","Southwest","El Paso","NM, TX",2002,"All",94154
+"119","Southwest","Laredo","TX",2002,"All",82095
+"120","Southwest","Rio Grande Valley","TX",2002,"All",89927
+"121","Southwest","San Diego","CA",2002,"All",100681
+"122","Southwest","Tucson","AZ",2002,"All",333648
+"123","Southwest","Yuma","CA, AZ",2002,"All",42654
+"124","Southwest","All","CA, AZ, NM, TX",2002,"All",929809
+"125","United States","","USA",2002,"All",955310
+"126","Coast","Livermore","CA",2002,"Mexicans",4186
+"127","Coast","Miami","FL, GA, SC, NC",2002,"Mexicans",1825
+"128","Coast","New Orleans","LA, AL, MS, FL",2002,"Mexicans",4126
+"129","Coast","Ramey","PR",2002,"Mexicans",0
+"130","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2002,"Mexicans",10137
+"131","North","Blaine","WA, OR",2002,"Mexicans",1059
+"132","North","Buffalo","NY, PA",2002,"Mexicans",421
+"133","North","Detroit","OH, MI, IN, IL",2002,"Mexicans",1125
+"134","North","Grand Forks","WI, MN, ND",2002,"Mexicans",1068
+"135","North","Havre","MT",2002,"Mexicans",1199
+"136","North","Houlton","ME",2002,"Mexicans",49
+"137","North","Spokane","MT, ID, WA",2002,"Mexicans",1006
+"138","North","Swanton","NH, VT, NY",2002,"Mexicans",168
+"139","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2002,"Mexicans",6095
+"140","Southwest","Big Bend","TX",2002,"Mexicans",10321
+"141","Southwest","Del Rio","TX",2002,"Mexicans",64169
+"142","Southwest","El Centro","CA",2002,"Mexicans",107411
+"143","Southwest","El Paso","NM, TX",2002,"Mexicans",91655
+"144","Southwest","Laredo","TX",2002,"Mexicans",77815
+"145","Southwest","Rio Grande Valley","TX",2002,"Mexicans",78588
+"146","Southwest","San Diego","CA",2002,"Mexicans",99551
+"147","Southwest","Tucson","AZ",2002,"Mexicans",329991
+"148","Southwest","Yuma","CA, AZ",2002,"Mexicans",42260
+"149","Southwest","All","CA, AZ, NM, TX",2002,"Mexicans",901761
+"150","United States","","USA",2002,"Mexicans",917993
+"151","Coast","Livermore","CA",2003,"All",3565
+"152","Coast","Miami","FL, GA, SC, NC",2003,"All",5931
+"153","Coast","New Orleans","LA, AL, MS, FL",2003,"All",5151
+"154","Coast","Ramey","PR",2003,"All",1688
+"155","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2003,"All",16335
+"156","North","Blaine","WA, OR",2003,"All",1380
+"157","North","Buffalo","NY, PA",2003,"All",564
+"158","North","Detroit","OH, MI, IN, IL",2003,"All",2345
+"159","North","Grand Forks","WI, MN, ND",2003,"All",1223
+"160","North","Havre","MT",2003,"All",1406
+"161","North","Houlton","ME",2003,"All",292
+"162","North","Spokane","MT, ID, WA",2003,"All",992
+"163","North","Swanton","NH, VT, NY",2003,"All",1955
+"164","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2003,"All",10157
+"165","Southwest","Big Bend","TX",2003,"All",10319
+"166","Southwest","Del Rio","TX",2003,"All",50145
+"167","Southwest","El Centro","CA",2003,"All",92099
+"168","Southwest","El Paso","NM, TX",2003,"All",88816
+"169","Southwest","Laredo","TX",2003,"All",70521
+"170","Southwest","Rio Grande Valley","TX",2003,"All",77749
+"171","Southwest","San Diego","CA",2003,"All",111515
+"172","Southwest","Tucson","AZ",2003,"All",347263
+"173","Southwest","Yuma","CA, AZ",2003,"All",56638
+"174","Southwest","All","CA, AZ, NM, TX",2003,"All",905065
+"175","United States","","USA",2003,"All",931557
+"176","Coast","Livermore","CA",2003,"Mexicans",3382
+"177","Coast","Miami","FL, GA, SC, NC",2003,"Mexicans",2481
+"178","Coast","New Orleans","LA, AL, MS, FL",2003,"Mexicans",4352
+"179","Coast","Ramey","PR",2003,"Mexicans",0
+"180","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2003,"Mexicans",10215
+"181","North","Blaine","WA, OR",2003,"Mexicans",754
+"182","North","Buffalo","NY, PA",2003,"Mexicans",218
+"183","North","Detroit","OH, MI, IN, IL",2003,"Mexicans",1672
+"184","North","Grand Forks","WI, MN, ND",2003,"Mexicans",1009
+"185","North","Havre","MT",2003,"Mexicans",1153
+"186","North","Houlton","ME",2003,"Mexicans",52
+"187","North","Spokane","MT, ID, WA",2003,"Mexicans",839
+"188","North","Swanton","NH, VT, NY",2003,"Mexicans",250
+"189","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2003,"Mexicans",5947
+"190","Southwest","Big Bend","TX",2003,"Mexicans",9477
+"191","Southwest","Del Rio","TX",2003,"Mexicans",45779
+"192","Southwest","El Centro","CA",2003,"Mexicans",91116
+"193","Southwest","El Paso","NM, TX",2003,"Mexicans",86097
+"194","Southwest","Laredo","TX",2003,"Mexicans",62734
+"195","Southwest","Rio Grande Valley","TX",2003,"Mexicans",62830
+"196","Southwest","San Diego","CA",2003,"Mexicans",109919
+"197","Southwest","Tucson","AZ",2003,"Mexicans",341971
+"198","Southwest","Yuma","CA, AZ",2003,"Mexicans",55927
+"199","Southwest","All","CA, AZ, NM, TX",2003,"Mexicans",865850
+"200","United States","","USA",2003,"Mexicans",882012
+"201","Coast","Livermore","CA",2004,"All",1850
+"202","Coast","Miami","FL, GA, SC, NC",2004,"All",4602
+"203","Coast","New Orleans","LA, AL, MS, FL",2004,"All",2889
+"204","Coast","Ramey","PR",2004,"All",1813
+"205","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2004,"All",11154
+"206","North","Blaine","WA, OR",2004,"All",1354
+"207","North","Buffalo","NY, PA",2004,"All",671
+"208","North","Detroit","OH, MI, IN, IL",2004,"All",1912
+"209","North","Grand Forks","WI, MN, ND",2004,"All",1225
+"210","North","Havre","MT",2004,"All",986
+"211","North","Houlton","ME",2004,"All",263
+"212","North","Spokane","MT, ID, WA",2004,"All",847
+"213","North","Swanton","NH, VT, NY",2004,"All",2701
+"214","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2004,"All",9959
+"215","Southwest","Big Bend","TX",2004,"All",10530
+"216","Southwest","Del Rio","TX",2004,"All",53794
+"217","Southwest","El Centro","CA",2004,"All",74467
+"218","Southwest","El Paso","NM, TX",2004,"All",104399
+"219","Southwest","Laredo","TX",2004,"All",74706
+"220","Southwest","Rio Grande Valley","TX",2004,"All",92947
+"221","Southwest","San Diego","CA",2004,"All",138608
+"222","Southwest","Tucson","AZ",2004,"All",491771
+"223","Southwest","Yuma","CA, AZ",2004,"All",98060
+"224","Southwest","All","CA, AZ, NM, TX",2004,"All",1139282
+"225","United States","","USA",2004,"All",1160395
+"226","Coast","Livermore","CA",2004,"Mexicans",1753
+"227","Coast","Miami","FL, GA, SC, NC",2004,"Mexicans",2007
+"228","Coast","New Orleans","LA, AL, MS, FL",2004,"Mexicans",2280
+"229","Coast","Ramey","PR",2004,"Mexicans",3
+"230","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2004,"Mexicans",6043
+"231","North","Blaine","WA, OR",2004,"Mexicans",759
+"232","North","Buffalo","NY, PA",2004,"Mexicans",240
+"233","North","Detroit","OH, MI, IN, IL",2004,"Mexicans",1353
+"234","North","Grand Forks","WI, MN, ND",2004,"Mexicans",1011
+"235","North","Havre","MT",2004,"Mexicans",844
+"236","North","Houlton","ME",2004,"Mexicans",89
+"237","North","Spokane","MT, ID, WA",2004,"Mexicans",742
+"238","North","Swanton","NH, VT, NY",2004,"Mexicans",457
+"239","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2004,"Mexicans",5495
+"240","Southwest","Big Bend","TX",2004,"Mexicans",9736
+"241","Southwest","Del Rio","TX",2004,"Mexicans",43931
+"242","Southwest","El Centro","CA",2004,"Mexicans",73741
+"243","Southwest","El Paso","NM, TX",2004,"Mexicans",100842
+"244","Southwest","Laredo","TX",2004,"Mexicans",62220
+"245","Southwest","Rio Grande Valley","TX",2004,"Mexicans",66521
+"246","Southwest","San Diego","CA",2004,"Mexicans",136847
+"247","Southwest","Tucson","AZ",2004,"Mexicans",482990
+"248","Southwest","Yuma","CA, AZ",2004,"Mexicans",96640
+"249","Southwest","All","CA, AZ, NM, TX",2004,"Mexicans",1073468
+"250","United States","","USA",2004,"Mexicans",1085006
+"251","Coast","Livermore","CA",2005,"All",114
+"252","Coast","Miami","FL, GA, SC, NC",2005,"All",7245
+"253","Coast","New Orleans","LA, AL, MS, FL",2005,"All",1358
+"254","Coast","Ramey","PR",2005,"All",1619
+"255","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2005,"All",10336
+"256","North","Blaine","WA, OR",2005,"All",1001
+"257","North","Buffalo","NY, PA",2005,"All",400
+"258","North","Detroit","OH, MI, IN, IL",2005,"All",1793
+"259","North","Grand Forks","WI, MN, ND",2005,"All",754
+"260","North","Havre","MT",2005,"All",948
+"261","North","Houlton","ME",2005,"All",233
+"262","North","Spokane","MT, ID, WA",2005,"All",279
+"263","North","Swanton","NH, VT, NY",2005,"All",1935
+"264","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2005,"All",7343
+"265","Southwest","Big Bend","TX",2005,"All",10536
+"266","Southwest","Del Rio","TX",2005,"All",68506
+"267","Southwest","El Centro","CA",2005,"All",55722
+"268","Southwest","El Paso","NM, TX",2005,"All",122679
+"269","Southwest","Laredo","TX",2005,"All",75346
+"270","Southwest","Rio Grande Valley","TX",2005,"All",134186
+"271","Southwest","San Diego","CA",2005,"All",126904
+"272","Southwest","Tucson","AZ",2005,"All",439079
+"273","Southwest","Yuma","CA, AZ",2005,"All",138438
+"274","Southwest","All","CA, AZ, NM, TX",2005,"All",1171396
+"275","United States","","USA",2005,"All",1189075
+"276","Coast","Livermore","CA",2005,"Mexicans",106
+"277","Coast","Miami","FL, GA, SC, NC",2005,"Mexicans",2325
+"278","Coast","New Orleans","LA, AL, MS, FL",2005,"Mexicans",983
+"279","Coast","Ramey","PR",2005,"Mexicans",1
+"280","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2005,"Mexicans",3415
+"281","North","Blaine","WA, OR",2005,"Mexicans",506
+"282","North","Buffalo","NY, PA",2005,"Mexicans",221
+"283","North","Detroit","OH, MI, IN, IL",2005,"Mexicans",1327
+"284","North","Grand Forks","WI, MN, ND",2005,"Mexicans",580
+"285","North","Havre","MT",2005,"Mexicans",807
+"286","North","Houlton","ME",2005,"Mexicans",76
+"287","North","Spokane","MT, ID, WA",2005,"Mexicans",173
+"288","North","Swanton","NH, VT, NY",2005,"Mexicans",391
+"289","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2005,"Mexicans",4081
+"290","Southwest","Big Bend","TX",2005,"Mexicans",9568
+"291","Southwest","Del Rio","TX",2005,"Mexicans",37276
+"292","Southwest","El Centro","CA",2005,"Mexicans",54770
+"293","Southwest","El Paso","NM, TX",2005,"Mexicans",117780
+"294","Southwest","Laredo","TX",2005,"Mexicans",54553
+"295","Southwest","Rio Grande Valley","TX",2005,"Mexicans",54332
+"296","Southwest","San Diego","CA",2005,"Mexicans",124947
+"297","Southwest","Tucson","AZ",2005,"Mexicans",426416
+"298","Southwest","Yuma","CA, AZ",2005,"Mexicans",136767
+"299","Southwest","All","CA, AZ, NM, TX",2005,"Mexicans",1016409
+"300","United States","","USA",2005,"Mexicans",1023905
+"301","Coast","Livermore","CA",2006,"All",NA
+"302","Coast","Miami","FL, GA, SC, NC",2006,"All",6032
+"303","Coast","New Orleans","LA, AL, MS, FL",2006,"All",3053
+"304","Coast","Ramey","PR",2006,"All",1436
+"305","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2006,"All",10521
+"306","North","Blaine","WA, OR",2006,"All",811
+"307","North","Buffalo","NY, PA",2006,"All",1517
+"308","North","Detroit","OH, MI, IN, IL",2006,"All",1281
+"309","North","Grand Forks","WI, MN, ND",2006,"All",518
+"310","North","Havre","MT",2006,"All",568
+"311","North","Houlton","ME",2006,"All",175
+"312","North","Spokane","MT, ID, WA",2006,"All",185
+"313","North","Swanton","NH, VT, NY",2006,"All",1544
+"314","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2006,"All",6599
+"315","Southwest","Big Bend","TX",2006,"All",7520
+"316","Southwest","Del Rio","TX",2006,"All",42636
+"317","Southwest","El Centro","CA",2006,"All",61465
+"318","Southwest","El Paso","NM, TX",2006,"All",122256
+"319","Southwest","Laredo","TX",2006,"All",74840
+"320","Southwest","Rio Grande Valley","TX",2006,"All",110528
+"321","Southwest","San Diego","CA",2006,"All",142104
+"322","Southwest","Tucson","AZ",2006,"All",392074
+"323","Southwest","Yuma","CA, AZ",2006,"All",118549
+"324","Southwest","All","CA, AZ, NM, TX",2006,"All",1071972
+"325","United States","","USA",2006,"All",1089092
+"326","Coast","Livermore","CA",2006,"Mexicans",NA
+"327","Coast","Miami","FL, GA, SC, NC",2006,"Mexicans",1616
+"328","Coast","New Orleans","LA, AL, MS, FL",2006,"Mexicans",1840
+"329","Coast","Ramey","PR",2006,"Mexicans",2
+"330","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2006,"Mexicans",3458
+"331","North","Blaine","WA, OR",2006,"Mexicans",485
+"332","North","Buffalo","NY, PA",2006,"Mexicans",959
+"333","North","Detroit","OH, MI, IN, IL",2006,"Mexicans",944
+"334","North","Grand Forks","WI, MN, ND",2006,"Mexicans",383
+"335","North","Havre","MT",2006,"Mexicans",511
+"336","North","Houlton","ME",2006,"Mexicans",58
+"337","North","Spokane","MT, ID, WA",2006,"Mexicans",108
+"338","North","Swanton","NH, VT, NY",2006,"Mexicans",341
+"339","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2006,"Mexicans",3789
+"340","Southwest","Big Bend","TX",2006,"Mexicans",6791
+"341","Southwest","Del Rio","TX",2006,"Mexicans",30361
+"342","Southwest","El Centro","CA",2006,"Mexicans",60723
+"343","Southwest","El Paso","NM, TX",2006,"Mexicans",117532
+"344","Southwest","Laredo","TX",2006,"Mexicans",59146
+"345","Southwest","Rio Grande Valley","TX",2006,"Mexicans",58282
+"346","Southwest","San Diego","CA",2006,"Mexicans",140821
+"347","Southwest","Tucson","AZ",2006,"Mexicans",382610
+"348","Southwest","Yuma","CA, AZ",2006,"Mexicans",117553
+"349","Southwest","All","CA, AZ, NM, TX",2006,"Mexicans",973819
+"350","United States","","USA",2006,"Mexicans",981066
+"351","Coast","Livermore","CA",2007,"All",NA
+"352","Coast","Miami","FL, GA, SC, NC",2007,"All",7120
+"353","Coast","New Orleans","LA, AL, MS, FL",2007,"All",4018
+"354","Coast","Ramey","PR",2007,"All",548
+"355","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2007,"All",11686
+"356","North","Blaine","WA, OR",2007,"All",749
+"357","North","Buffalo","NY, PA",2007,"All",2191
+"358","North","Detroit","OH, MI, IN, IL",2007,"All",902
+"359","North","Grand Forks","WI, MN, ND",2007,"All",497
+"360","North","Havre","MT",2007,"All",486
+"361","North","Houlton","ME",2007,"All",95
+"362","North","Spokane","MT, ID, WA",2007,"All",341
+"363","North","Swanton","NH, VT, NY",2007,"All",1119
+"364","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2007,"All",6380
+"365","Southwest","Big Bend","TX",2007,"All",5536
+"366","Southwest","Del Rio","TX",2007,"All",22920
+"367","Southwest","El Centro","CA",2007,"All",55883
+"368","Southwest","El Paso","NM, TX",2007,"All",75464
+"369","Southwest","Laredo","TX",2007,"All",56714
+"370","Southwest","Rio Grande Valley","TX",2007,"All",73430
+"371","Southwest","San Diego","CA",2007,"All",152460
+"372","Southwest","Tucson","AZ",2007,"All",378239
+"373","Southwest","Yuma","CA, AZ",2007,"All",37992
+"374","Southwest","All","CA, AZ, NM, TX",2007,"All",858638
+"375","United States","","USA",2007,"All",876704
+"376","Coast","Livermore","CA",2007,"Mexicans",NA
+"377","Coast","Miami","FL, GA, SC, NC",2007,"Mexicans",1612
+"378","Coast","New Orleans","LA, AL, MS, FL",2007,"Mexicans",2633
+"379","Coast","Ramey","PR",2007,"Mexicans",0
+"380","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2007,"Mexicans",4245
+"381","North","Blaine","WA, OR",2007,"Mexicans",518
+"382","North","Buffalo","NY, PA",2007,"Mexicans",1271
+"383","North","Detroit","OH, MI, IN, IL",2007,"Mexicans",686
+"384","North","Grand Forks","WI, MN, ND",2007,"Mexicans",334
+"385","North","Havre","MT",2007,"Mexicans",409
+"386","North","Houlton","ME",2007,"Mexicans",17
+"387","North","Spokane","MT, ID, WA",2007,"Mexicans",290
+"388","North","Swanton","NH, VT, NY",2007,"Mexicans",284
+"389","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2007,"Mexicans",3809
+"390","Southwest","Big Bend","TX",2007,"Mexicans",5002
+"391","Southwest","Del Rio","TX",2007,"Mexicans",16286
+"392","Southwest","El Centro","CA",2007,"Mexicans",55271
+"393","Southwest","El Paso","NM, TX",2007,"Mexicans",72293
+"394","Southwest","Laredo","TX",2007,"Mexicans",44831
+"395","Southwest","Rio Grande Valley","TX",2007,"Mexicans",51975
+"396","Southwest","San Diego","CA",2007,"Mexicans",151140
+"397","Southwest","Tucson","AZ",2007,"Mexicans",366456
+"398","Southwest","Yuma","CA, AZ",2007,"Mexicans",37380
+"399","Southwest","All","CA, AZ, NM, TX",2007,"Mexicans",800634
+"400","United States","","USA",2007,"Mexicans",808688
+"401","Coast","Livermore","CA",2008,"All",NA
+"402","Coast","Miami","FL, GA, SC, NC",2008,"All",6020
+"403","Coast","New Orleans","LA, AL, MS, FL",2008,"All",4303
+"404","Coast","Ramey","PR",2008,"All",572
+"405","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2008,"All",10895
+"406","North","Blaine","WA, OR",2008,"All",954
+"407","North","Buffalo","NY, PA",2008,"All",3339
+"408","North","Detroit","OH, MI, IN, IL",2008,"All",961
+"409","North","Grand Forks","WI, MN, ND",2008,"All",541
+"410","North","Havre","MT",2008,"All",427
+"411","North","Houlton","ME",2008,"All",81
+"412","North","Spokane","MT, ID, WA",2008,"All",340
+"413","North","Swanton","NH, VT, NY",2008,"All",1282
+"414","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2008,"All",7925
+"415","Southwest","Big Bend","TX",2008,"All",5391
+"416","Southwest","Del Rio","TX",2008,"All",20761
+"417","Southwest","El Centro","CA",2008,"All",40961
+"418","Southwest","El Paso","NM, TX",2008,"All",30312
+"419","Southwest","Laredo","TX",2008,"All",43658
+"420","Southwest","Rio Grande Valley","TX",2008,"All",75473
+"421","Southwest","San Diego","CA",2008,"All",162390
+"422","Southwest","Tucson","AZ",2008,"All",317696
+"423","Southwest","Yuma","CA, AZ",2008,"All",8363
+"424","Southwest","All","CA, AZ, NM, TX",2008,"All",705005
+"425","United States","","USA",2008,"All",723825
+"426","Coast","Livermore","CA",2008,"Mexicans",NA
+"427","Coast","Miami","FL, GA, SC, NC",2008,"Mexicans",1564
+"428","Coast","New Orleans","LA, AL, MS, FL",2008,"Mexicans",2923
+"429","Coast","Ramey","PR",2008,"Mexicans",0
+"430","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2008,"Mexicans",4487
+"431","North","Blaine","WA, OR",2008,"Mexicans",643
+"432","North","Buffalo","NY, PA",2008,"Mexicans",1618
+"433","North","Detroit","OH, MI, IN, IL",2008,"Mexicans",664
+"434","North","Grand Forks","WI, MN, ND",2008,"Mexicans",361
+"435","North","Havre","MT",2008,"Mexicans",379
+"436","North","Houlton","ME",2008,"Mexicans",12
+"437","North","Spokane","MT, ID, WA",2008,"Mexicans",296
+"438","North","Swanton","NH, VT, NY",2008,"Mexicans",271
+"439","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2008,"Mexicans",4244
+"440","Southwest","Big Bend","TX",2008,"Mexicans",4756
+"441","Southwest","Del Rio","TX",2008,"Mexicans",14916
+"442","Southwest","El Centro","CA",2008,"Mexicans",40159
+"443","Southwest","El Paso","NM, TX",2008,"Mexicans",29137
+"444","Southwest","Laredo","TX",2008,"Mexicans",34403
+"445","Southwest","Rio Grande Valley","TX",2008,"Mexicans",55401
+"446","Southwest","San Diego","CA",2008,"Mexicans",160818
+"447","Southwest","Tucson","AZ",2008,"Mexicans",305429
+"448","Southwest","Yuma","CA, AZ",2008,"Mexicans",8016
+"449","Southwest","All","CA, AZ, NM, TX",2008,"Mexicans",653035
+"450","United States","","USA",2008,"Mexicans",661766
+"451","Coast","Livermore","CA",2009,"All",NA
+"452","Coast","Miami","FL, GA, SC, NC",2009,"All",4425
+"453","Coast","New Orleans","LA, AL, MS, FL",2009,"All",3527
+"454","Coast","Ramey","PR",2009,"All",418
+"455","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2009,"All",8370
+"456","North","Blaine","WA, OR",2009,"All",843
+"457","North","Buffalo","NY, PA",2009,"All",2672
+"458","North","Detroit","OH, MI, IN, IL",2009,"All",1157
+"459","North","Grand Forks","WI, MN, ND",2009,"All",472
+"460","North","Havre","MT",2009,"All",283
+"461","North","Houlton","ME",2009,"All",59
+"462","North","Spokane","MT, ID, WA",2009,"All",277
+"463","North","Swanton","NH, VT, NY",2009,"All",1043
+"464","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2009,"All",6806
+"465","Southwest","Big Bend","TX",2009,"All",6360
+"466","Southwest","Del Rio","TX",2009,"All",17082
+"467","Southwest","El Centro","CA",2009,"All",33521
+"468","Southwest","El Paso","NM, TX",2009,"All",14999
+"469","Southwest","Laredo","TX",2009,"All",40569
+"470","Southwest","Rio Grande Valley","TX",2009,"All",60989
+"471","Southwest","San Diego","CA",2009,"All",118721
+"472","Southwest","Tucson","AZ",2009,"All",241673
+"473","Southwest","Yuma","CA, AZ",2009,"All",6951
+"474","Southwest","All","CA, AZ, NM, TX",2009,"All",540865
+"475","United States","","USA",2009,"All",556041
+"476","Coast","Livermore","CA",2009,"Mexicans",NA
+"477","Coast","Miami","FL, GA, SC, NC",2009,"Mexicans",1857
+"478","Coast","New Orleans","LA, AL, MS, FL",2009,"Mexicans",2269
+"479","Coast","Ramey","PR",2009,"Mexicans",2
+"480","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2009,"Mexicans",4128
+"481","North","Blaine","WA, OR",2009,"Mexicans",524
+"482","North","Buffalo","NY, PA",2009,"Mexicans",1314
+"483","North","Detroit","OH, MI, IN, IL",2009,"Mexicans",881
+"484","North","Grand Forks","WI, MN, ND",2009,"Mexicans",311
+"485","North","Havre","MT",2009,"Mexicans",208
+"486","North","Houlton","ME",2009,"Mexicans",10
+"487","North","Spokane","MT, ID, WA",2009,"Mexicans",260
+"488","North","Swanton","NH, VT, NY",2009,"Mexicans",168
+"489","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2009,"Mexicans",3676
+"490","Southwest","Big Bend","TX",2009,"Mexicans",5573
+"491","Southwest","Del Rio","TX",2009,"Mexicans",12820
+"492","Southwest","El Centro","CA",2009,"Mexicans",32602
+"493","Southwest","El Paso","NM, TX",2009,"Mexicans",13887
+"494","Southwest","Laredo","TX",2009,"Mexicans",31831
+"495","Southwest","Rio Grande Valley","TX",2009,"Mexicans",45051
+"496","Southwest","San Diego","CA",2009,"Mexicans",117227
+"497","Southwest","Tucson","AZ",2009,"Mexicans",230045
+"498","Southwest","Yuma","CA, AZ",2009,"Mexicans",6546
+"499","Southwest","All","CA, AZ, NM, TX",2009,"Mexicans",495582
+"500","United States","","USA",2009,"Mexicans",503386
+"501","Coast","Livermore","CA",2010,"All",NA
+"502","Coast","Miami","FL, GA, SC, NC",2010,"All",4651
+"503","Coast","New Orleans","LA, AL, MS, FL",2010,"All",3171
+"504","Coast","Ramey","PR",2010,"All",398
+"505","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2010,"All",8220
+"506","North","Blaine","WA, OR",2010,"All",673
+"507","North","Buffalo","NY, PA",2010,"All",2422
+"508","North","Detroit","OH, MI, IN, IL",2010,"All",1669
+"509","North","Grand Forks","WI, MN, ND",2010,"All",543
+"510","North","Havre","MT",2010,"All",290
+"511","North","Houlton","ME",2010,"All",56
+"512","North","Spokane","MT, ID, WA",2010,"All",356
+"513","North","Swanton","NH, VT, NY",2010,"All",1422
+"514","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2010,"All",7431
+"515","Southwest","Big Bend","TX",2010,"All",5288
+"516","Southwest","Del Rio","TX",2010,"All",14694
+"517","Southwest","El Centro","CA",2010,"All",32562
+"518","Southwest","El Paso","NM, TX",2010,"All",12251
+"519","Southwest","Laredo","TX",2010,"All",35287
+"520","Southwest","Rio Grande Valley","TX",2010,"All",59766
+"521","Southwest","San Diego","CA",2010,"All",68565
+"522","Southwest","Tucson","AZ",2010,"All",212202
+"523","Southwest","Yuma","CA, AZ",2010,"All",7116
+"524","Southwest","All","CA, AZ, NM, TX",2010,"All",447731
+"525","United States","","USA",2010,"All",463382
+"526","Coast","Livermore","CA",2010,"Mexicans",NA
+"527","Coast","Miami","FL, GA, SC, NC",2010,"Mexicans",1837
+"528","Coast","New Orleans","LA, AL, MS, FL",2010,"Mexicans",1941
+"529","Coast","Ramey","PR",2010,"Mexicans",2
+"530","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2010,"Mexicans",3780
+"531","North","Blaine","WA, OR",2010,"Mexicans",376
+"532","North","Buffalo","NY, PA",2010,"Mexicans",1143
+"533","North","Detroit","OH, MI, IN, IL",2010,"Mexicans",1196
+"534","North","Grand Forks","WI, MN, ND",2010,"Mexicans",388
+"535","North","Havre","MT",2010,"Mexicans",184
+"536","North","Houlton","ME",2010,"Mexicans",6
+"537","North","Spokane","MT, ID, WA",2010,"Mexicans",316
+"538","North","Swanton","NH, VT, NY",2010,"Mexicans",157
+"539","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2010,"Mexicans",3766
+"540","Southwest","Big Bend","TX",2010,"Mexicans",4754
+"541","Southwest","Del Rio","TX",2010,"Mexicans",10593
+"542","Southwest","El Centro","CA",2010,"Mexicans",31704
+"543","Southwest","El Paso","NM, TX",2010,"Mexicans",11194
+"544","Southwest","Laredo","TX",2010,"Mexicans",27957
+"545","Southwest","Rio Grande Valley","TX",2010,"Mexicans",40732
+"546","Southwest","San Diego","CA",2010,"Mexicans",67259
+"547","Southwest","Tucson","AZ",2010,"Mexicans",195921
+"548","Southwest","Yuma","CA, AZ",2010,"Mexicans",6705
+"549","Southwest","All","CA, AZ, NM, TX",2010,"Mexicans",396819
+"550","United States","","USA",2010,"Mexicans",404365
+"551","Coast","Livermore","CA",2011,"All",NA
+"552","Coast","Miami","FL, GA, SC, NC",2011,"All",4401
+"553","Coast","New Orleans","LA, AL, MS, FL",2011,"All",1509
+"554","Coast","Ramey","PR",2011,"All",642
+"555","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2011,"All",6552
+"556","North","Blaine","WA, OR",2011,"All",591
+"557","North","Buffalo","NY, PA",2011,"All",2114
+"558","North","Detroit","OH, MI, IN, IL",2011,"All",1531
+"559","North","Grand Forks","WI, MN, ND",2011,"All",468
+"560","North","Havre","MT",2011,"All",270
+"561","North","Houlton","ME",2011,"All",41
+"562","North","Spokane","MT, ID, WA",2011,"All",293
+"563","North","Swanton","NH, VT, NY",2011,"All",815
+"564","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2011,"All",6123
+"565","Southwest","Big Bend","TX",2011,"All",4036
+"566","Southwest","Del Rio","TX",2011,"All",16144
+"567","Southwest","El Centro","CA",2011,"All",30191
+"568","Southwest","El Paso","NM, TX",2011,"All",10345
+"569","Southwest","Laredo","TX",2011,"All",36053
+"570","Southwest","Rio Grande Valley","TX",2011,"All",59243
+"571","Southwest","San Diego","CA",2011,"All",42447
+"572","Southwest","Tucson","AZ",2011,"All",123285
+"573","Southwest","Yuma","CA, AZ",2011,"All",5833
+"574","Southwest","All","CA, AZ, NM, TX",2011,"All",327577
+"575","United States","","USA",2011,"All",340252
+"576","Coast","Livermore","CA",2011,"Mexicans",NA
+"577","Coast","Miami","FL, GA, SC, NC",2011,"Mexicans",1529
+"578","Coast","New Orleans","LA, AL, MS, FL",2011,"Mexicans",897
+"579","Coast","Ramey","PR",2011,"Mexicans",3
+"580","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2011,"Mexicans",2429
+"581","North","Blaine","WA, OR",2011,"Mexicans",314
+"582","North","Buffalo","NY, PA",2011,"Mexicans",938
+"583","North","Detroit","OH, MI, IN, IL",2011,"Mexicans",1031
+"584","North","Grand Forks","WI, MN, ND",2011,"Mexicans",294
+"585","North","Havre","MT",2011,"Mexicans",167
+"586","North","Houlton","ME",2011,"Mexicans",5
+"587","North","Spokane","MT, ID, WA",2011,"Mexicans",234
+"588","North","Swanton","NH, VT, NY",2011,"Mexicans",162
+"589","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2011,"Mexicans",3145
+"590","Southwest","Big Bend","TX",2011,"Mexicans",3621
+"591","Southwest","Del Rio","TX",2011,"Mexicans",11697
+"592","Southwest","El Centro","CA",2011,"Mexicans",29474
+"593","Southwest","El Paso","NM, TX",2011,"Mexicans",9633
+"594","Southwest","Laredo","TX",2011,"Mexicans",29131
+"595","Southwest","Rio Grande Valley","TX",2011,"Mexicans",38353
+"596","Southwest","San Diego","CA",2011,"Mexicans",41281
+"597","Southwest","Tucson","AZ",2011,"Mexicans",111974
+"598","Southwest","Yuma","CA, AZ",2011,"Mexicans",5416
+"599","Southwest","All","CA, AZ, NM, TX",2011,"Mexicans",280580
+"600","United States","","USA",2011,"Mexicans",286154
+"601","Coast","Livermore","CA",2012,"All",NA
+"602","Coast","Miami","FL, GA, SC, NC",2012,"All",2509
+"603","Coast","New Orleans","LA, AL, MS, FL",2012,"All",474
+"604","Coast","Ramey","PR",2012,"All",702
+"605","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2012,"All",3685
+"606","North","Blaine","WA, OR",2012,"All",537
+"607","North","Buffalo","NY, PA",2012,"All",1143
+"608","North","Detroit","OH, MI, IN, IL",2012,"All",950
+"609","North","Grand Forks","WI, MN, ND",2012,"All",418
+"610","North","Havre","MT",2012,"All",102
+"611","North","Houlton","ME",2012,"All",41
+"612","North","Spokane","MT, ID, WA",2012,"All",317
+"613","North","Swanton","NH, VT, NY",2012,"All",702
+"614","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2012,"All",4210
+"615","Southwest","Big Bend","TX",2012,"All",3964
+"616","Southwest","Del Rio","TX",2012,"All",21720
+"617","Southwest","El Centro","CA",2012,"All",23916
+"618","Southwest","El Paso","NM, TX",2012,"All",9678
+"619","Southwest","Laredo","TX",2012,"All",44872
+"620","Southwest","Rio Grande Valley","TX",2012,"All",97762
+"621","Southwest","San Diego","CA",2012,"All",28461
+"622","Southwest","Tucson","AZ",2012,"All",120000
+"623","Southwest","Yuma","CA, AZ",2012,"All",6500
+"624","Southwest","All","CA, AZ, NM, TX",2012,"All",356873
+"625","United States","","USA",2012,"All",364768
+"626","Coast","Livermore","CA",2012,"Mexicans",NA
+"627","Coast","Miami","FL, GA, SC, NC",2012,"Mexicans",831
+"628","Coast","New Orleans","LA, AL, MS, FL",2012,"Mexicans",277
+"629","Coast","Ramey","PR",2012,"Mexicans",0
+"630","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2012,"Mexicans",1108
+"631","North","Blaine","WA, OR",2012,"Mexicans",270
+"632","North","Buffalo","NY, PA",2012,"Mexicans",607
+"633","North","Detroit","OH, MI, IN, IL",2012,"Mexicans",673
+"634","North","Grand Forks","WI, MN, ND",2012,"Mexicans",306
+"635","North","Havre","MT",2012,"Mexicans",54
+"636","North","Houlton","ME",2012,"Mexicans",8
+"637","North","Spokane","MT, ID, WA",2012,"Mexicans",266
+"638","North","Swanton","NH, VT, NY",2012,"Mexicans",122
+"639","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2012,"Mexicans",2306
+"640","Southwest","Big Bend","TX",2012,"Mexicans",3417
+"641","Southwest","Del Rio","TX",2012,"Mexicans",12404
+"642","Southwest","El Centro","CA",2012,"Mexicans",22511
+"643","Southwest","El Paso","NM, TX",2012,"Mexicans",8915
+"644","Southwest","Laredo","TX",2012,"Mexicans",31742
+"645","Southwest","Rio Grande Valley","TX",2012,"Mexicans",47823
+"646","Southwest","San Diego","CA",2012,"Mexicans",27307
+"647","Southwest","Tucson","AZ",2012,"Mexicans",102303
+"648","Southwest","Yuma","CA, AZ",2012,"Mexicans",5919
+"649","Southwest","All","CA, AZ, NM, TX",2012,"Mexicans",262341
+"650","United States","","USA",2012,"Mexicans",265755
+"651","Coast","Livermore","CA",2013,"All",NA
+"652","Coast","Miami","FL, GA, SC, NC",2013,"All",1738
+"653","Coast","New Orleans","LA, AL, MS, FL",2013,"All",500
+"654","Coast","Ramey","PR",2013,"All",924
+"655","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2013,"All",3162
+"656","North","Blaine","WA, OR",2013,"All",360
+"657","North","Buffalo","NY, PA",2013,"All",796
+"658","North","Detroit","OH, MI, IN, IL",2013,"All",650
+"659","North","Grand Forks","WI, MN, ND",2013,"All",469
+"660","North","Havre","MT",2013,"All",88
+"661","North","Houlton","ME",2013,"All",37
+"662","North","Spokane","MT, ID, WA",2013,"All",299
+"663","North","Swanton","NH, VT, NY",2013,"All",531
+"664","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2013,"All",3230
+"665","Southwest","Big Bend","TX",2013,"All",3684
+"666","Southwest","Del Rio","TX",2013,"All",23510
+"667","Southwest","El Centro","CA",2013,"All",16306
+"668","Southwest","El Paso","NM, TX",2013,"All",11154
+"669","Southwest","Laredo","TX",2013,"All",50749
+"670","Southwest","Rio Grande Valley","TX",2013,"All",154453
+"671","Southwest","San Diego","CA",2013,"All",27496
+"672","Southwest","Tucson","AZ",2013,"All",120939
+"673","Southwest","Yuma","CA, AZ",2013,"All",6106
+"674","Southwest","All","CA, AZ, NM, TX",2013,"All",414397
+"675","United States","","USA",2013,"All",420789
+"676","Coast","Livermore","CA",2013,"Mexicans",NA
+"677","Coast","Miami","FL, GA, SC, NC",2013,"Mexicans",388
+"678","Coast","New Orleans","LA, AL, MS, FL",2013,"Mexicans",262
+"679","Coast","Ramey","PR",2013,"Mexicans",3
+"680","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2013,"Mexicans",653
+"681","North","Blaine","WA, OR",2013,"Mexicans",106
+"682","North","Buffalo","NY, PA",2013,"Mexicans",370
+"683","North","Detroit","OH, MI, IN, IL",2013,"Mexicans",479
+"684","North","Grand Forks","WI, MN, ND",2013,"Mexicans",337
+"685","North","Havre","MT",2013,"Mexicans",62
+"686","North","Houlton","ME",2013,"Mexicans",1
+"687","North","Spokane","MT, ID, WA",2013,"Mexicans",237
+"688","North","Swanton","NH, VT, NY",2013,"Mexicans",80
+"689","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2013,"Mexicans",1672
+"690","Southwest","Big Bend","TX",2013,"Mexicans",3174
+"691","Southwest","Del Rio","TX",2013,"Mexicans",14005
+"692","Southwest","El Centro","CA",2013,"Mexicans",15141
+"693","Southwest","El Paso","NM, TX",2013,"Mexicans",10092
+"694","Southwest","Laredo","TX",2013,"Mexicans",32772
+"695","Southwest","Rio Grande Valley","TX",2013,"Mexicans",57624
+"696","Southwest","San Diego","CA",2013,"Mexicans",26223
+"697","Southwest","Tucson","AZ",2013,"Mexicans",101092
+"698","Southwest","Yuma","CA, AZ",2013,"Mexicans",5286
+"699","Southwest","All","CA, AZ, NM, TX",2013,"Mexicans",265409
+"700","United States","","USA",2013,"Mexicans",267734
+"701","Coast","Livermore","CA",2014,"All",NA
+"702","Coast","Miami","FL, GA, SC, NC",2014,"All",2034
+"703","Coast","New Orleans","LA, AL, MS, FL",2014,"All",950
+"704","Coast","Ramey","PR",2014,"All",958
+"705","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2014,"All",3942
+"706","North","Blaine","WA, OR",2014,"All",272
+"707","North","Buffalo","NY, PA",2014,"All",741
+"708","North","Detroit","OH, MI, IN, IL",2014,"All",647
+"709","North","Grand Forks","WI, MN, ND",2014,"All",767
+"710","North","Havre","MT",2014,"All",91
+"711","North","Houlton","ME",2014,"All",45
+"712","North","Spokane","MT, ID, WA",2014,"All",269
+"713","North","Swanton","NH, VT, NY",2014,"All",506
+"714","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2014,"All",3338
+"715","Southwest","Big Bend","TX",2014,"All",4096
+"716","Southwest","Del Rio","TX",2014,"All",24255
+"717","Southwest","El Centro","CA",2014,"All",14511
+"718","Southwest","El Paso","NM, TX",2014,"All",12339
+"719","Southwest","Laredo","TX",2014,"All",44049
+"720","Southwest","Rio Grande Valley","TX",2014,"All",256393
+"721","Southwest","San Diego","CA",2014,"All",29911
+"722","Southwest","Tucson","AZ",2014,"All",87915
+"723","Southwest","Yuma","CA, AZ",2014,"All",5902
+"724","Southwest","All","CA, AZ, NM, TX",2014,"All",479371
+"725","United States","","USA",2014,"All",486651
+"726","Coast","Livermore","CA",2014,"Mexicans",NA
+"727","Coast","Miami","FL, GA, SC, NC",2014,"Mexicans",277
+"728","Coast","New Orleans","LA, AL, MS, FL",2014,"Mexicans",465
+"729","Coast","Ramey","PR",2014,"Mexicans",0
+"730","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2014,"Mexicans",742
+"731","North","Blaine","WA, OR",2014,"Mexicans",58
+"732","North","Buffalo","NY, PA",2014,"Mexicans",294
+"733","North","Detroit","OH, MI, IN, IL",2014,"Mexicans",431
+"734","North","Grand Forks","WI, MN, ND",2014,"Mexicans",532
+"735","North","Havre","MT",2014,"Mexicans",51
+"736","North","Houlton","ME",2014,"Mexicans",5
+"737","North","Spokane","MT, ID, WA",2014,"Mexicans",219
+"738","North","Swanton","NH, VT, NY",2014,"Mexicans",75
+"739","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2014,"Mexicans",1665
+"740","Southwest","Big Bend","TX",2014,"Mexicans",3164
+"741","Southwest","Del Rio","TX",2014,"Mexicans",10196
+"742","Southwest","El Centro","CA",2014,"Mexicans",12511
+"743","Southwest","El Paso","NM, TX",2014,"Mexicans",9904
+"744","Southwest","Laredo","TX",2014,"Mexicans",26540
+"745","Southwest","Rio Grande Valley","TX",2014,"Mexicans",63468
+"746","Southwest","San Diego","CA",2014,"Mexicans",27871
+"747","Southwest","Tucson","AZ",2014,"Mexicans",68870
+"748","Southwest","Yuma","CA, AZ",2014,"Mexicans",4247
+"749","Southwest","All","CA, AZ, NM, TX",2014,"Mexicans",226771
+"750","United States","","USA",2014,"Mexicans",229178
+"751","Coast","Livermore","CA",2015,"All",NA
+"752","Coast","Miami","FL, GA, SC, NC",2015,"All",1752
+"753","Coast","New Orleans","LA, AL, MS, FL",2015,"All",849
+"754","Coast","Ramey","PR",2015,"All",557
+"755","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2015,"All",3158
+"756","North","Blaine","WA, OR",2015,"All",282
+"757","North","Buffalo","NY, PA",2015,"All",291
+"758","North","Detroit","OH, MI, IN, IL",2015,"All",637
+"759","North","Grand Forks","WI, MN, ND",2015,"All",789
+"760","North","Havre","MT",2015,"All",64
+"761","North","Houlton","ME",2015,"All",32
+"762","North","Spokane","MT, ID, WA",2015,"All",190
+"763","North","Swanton","NH, VT, NY",2015,"All",341
+"764","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2015,"All",2626
+"765","Southwest","Big Bend","TX",2015,"All",5031
+"766","Southwest","Del Rio","TX",2015,"All",19013
+"767","Southwest","El Centro","CA",2015,"All",12820
+"768","Southwest","El Paso","NM, TX",2015,"All",14495
+"769","Southwest","Laredo","TX",2015,"All",35888
+"770","Southwest","Rio Grande Valley","TX",2015,"All",147257
+"771","Southwest","San Diego","CA",2015,"All",26290
+"772","Southwest","Tucson","AZ",2015,"All",63397
+"773","Southwest","Yuma","CA, AZ",2015,"All",7142
+"774","Southwest","All","CA, AZ, NM, TX",2015,"All",331333
+"775","United States","","USA",2015,"All",337117
+"776","Coast","Livermore","CA",2015,"Mexicans",NA
+"777","Coast","Miami","FL, GA, SC, NC",2015,"Mexicans",273
+"778","Coast","New Orleans","LA, AL, MS, FL",2015,"Mexicans",394
+"779","Coast","Ramey","PR",2015,"Mexicans",1
+"780","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2015,"Mexicans",668
+"781","North","Blaine","WA, OR",2015,"Mexicans",67
+"782","North","Buffalo","NY, PA",2015,"Mexicans",137
+"783","North","Detroit","OH, MI, IN, IL",2015,"Mexicans",427
+"784","North","Grand Forks","WI, MN, ND",2015,"Mexicans",563
+"785","North","Havre","MT",2015,"Mexicans",46
+"786","North","Houlton","ME",2015,"Mexicans",1
+"787","North","Spokane","MT, ID, WA",2015,"Mexicans",153
+"788","North","Swanton","NH, VT, NY",2015,"Mexicans",43
+"789","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2015,"Mexicans",1437
+"790","Southwest","Big Bend","TX",2015,"Mexicans",2177
+"791","Southwest","Del Rio","TX",2015,"Mexicans",10874
+"792","Southwest","El Centro","CA",2015,"Mexicans",11320
+"793","Southwest","El Paso","NM, TX",2015,"Mexicans",10677
+"794","Southwest","Laredo","TX",2015,"Mexicans",25766
+"795","Southwest","Rio Grande Valley","TX",2015,"Mexicans",48173
+"796","Southwest","San Diego","CA",2015,"Mexicans",24269
+"797","Southwest","Tucson","AZ",2015,"Mexicans",48916
+"798","Southwest","Yuma","CA, AZ",2015,"Mexicans",3845
+"799","Southwest","All","CA, AZ, NM, TX",2015,"Mexicans",186017
+"800","United States","","USA",2015,"Mexicans",188122
+"801","Coast","Livermore","CA",2016,"All",NA
+"802","Coast","Miami","FL, GA, SC, NC",2016,"All",3205
+"803","Coast","New Orleans","LA, AL, MS, FL",2016,"All",764
+"804","Coast","Ramey","PR",2016,"All",694
+"805","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2016,"All",4663
+"806","North","Blaine","WA, OR",2016,"All",271
+"807","North","Buffalo","NY, PA",2016,"All",226
+"808","North","Detroit","OH, MI, IN, IL",2016,"All",716
+"809","North","Grand Forks","WI, MN, ND",2016,"All",505
+"810","North","Havre","MT",2016,"All",43
+"811","North","Houlton","ME",2016,"All",25
+"812","North","Spokane","MT, ID, WA",2016,"All",206
+"813","North","Swanton","NH, VT, NY",2016,"All",291
+"814","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2016,"All",2283
+"815","Southwest","Big Bend","TX",2016,"All",6366
+"816","Southwest","Del Rio","TX",2016,"All",23078
+"817","Southwest","El Centro","CA",2016,"All",19448
+"818","Southwest","El Paso","NM, TX",2016,"All",25634
+"819","Southwest","Laredo","TX",2016,"All",36562
+"820","Southwest","Rio Grande Valley","TX",2016,"All",186830
+"821","Southwest","San Diego","CA",2016,"All",31891
+"822","Southwest","Tucson","AZ",2016,"All",64891
+"823","Southwest","Yuma","CA, AZ",2016,"All",14170
+"824","Southwest","All","CA, AZ, NM, TX",2016,"All",408870
+"825","United States","","USA",2016,"All",415816
+"826","Coast","Livermore","CA",2016,"Mexicans",NA
+"827","Coast","Miami","FL, GA, SC, NC",2016,"Mexicans",652
+"828","Coast","New Orleans","LA, AL, MS, FL",2016,"Mexicans",388
+"829","Coast","Ramey","PR",2016,"Mexicans",0
+"830","Coast","All","PR, LA, AL, MS, FL, GA, SC, NC",2016,"Mexicans",1040
+"831","North","Blaine","WA, OR",2016,"Mexicans",40
+"832","North","Buffalo","NY, PA",2016,"Mexicans",82
+"833","North","Detroit","OH, MI, IN, IL",2016,"Mexicans",504
+"834","North","Grand Forks","WI, MN, ND",2016,"Mexicans",352
+"835","North","Havre","MT",2016,"Mexicans",12
+"836","North","Houlton","ME",2016,"Mexicans",7
+"837","North","Spokane","MT, ID, WA",2016,"Mexicans",149
+"838","North","Swanton","NH, VT, NY",2016,"Mexicans",23
+"839","North","All","ME, NH, VT, NY, PA, OH, MI, IN, IL, WI, MN, ND, MT, ID, WA",2016,"Mexicans",1169
+"840","Southwest","Big Bend","TX",2016,"Mexicans",2728
+"841","Southwest","Del Rio","TX",2016,"Mexicans",12953
+"842","Southwest","El Centro","CA",2016,"Mexicans",14361
+"843","Southwest","El Paso","NM, TX",2016,"Mexicans",13660
+"844","Southwest","Laredo","TX",2016,"Mexicans",25337
+"845","Southwest","Rio Grande Valley","TX",2016,"Mexicans",46334
+"846","Southwest","San Diego","CA",2016,"Mexicans",25380
+"847","Southwest","Tucson","AZ",2016,"Mexicans",46494
+"848","Southwest","Yuma","CA, AZ",2016,"Mexicans",3513
+"849","Southwest","All","CA, AZ, NM, TX",2016,"Mexicans",190760
+"850","United States","","USA",2016,"Mexicans",192969
