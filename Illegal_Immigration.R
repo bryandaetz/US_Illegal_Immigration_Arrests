@@ -33,7 +33,7 @@ tot <- ggplot(totals, aes(x = Year, y = Number_Arrested, fill = Type)) +
           geom_area(alpha = 0.65, position = "dodge") +
           xlab("Year") +
           ylab("Total Arrests") +
-          ggtitle("Illegal Immigration Arrests") +
+          ggtitle("Total Illegal Immigration Arrests") +
           theme_minimal()
 ggplotly(tot)
 
