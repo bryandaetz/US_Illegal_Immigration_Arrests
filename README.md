@@ -49,4 +49,13 @@ Additionally, the percentage of the arrests accounted for by Mexican Illegal Imm
 | 2015    |  55.80      |      188122     |   337117      |
 | 2016    |  46.41      |      192969     |   415816      |
 
+## A Look at Arrests at Each Border
+![alt-title](Illegal Immigration Images/Coast Arrests.png)
+![alt-title](Illegal Immigration Images/Northern Border Arrests.png)
+![alt-title](Illegal Immigration Images/Southwest Border Arrests.png)
 
+## Breakdown of Arrests by Sector
+![alt-title](Illegal Immigration Images/Sectors with Most Arrests '00.png)
+![alt-title](Illegal Immigration Images/Arrests Map 2000.png)
+![alt-title](Illegal Immigration Images/Sectors with Most Arrests '16.png)
+![alt-title](Illegal Immigration Images/Arrest Map 2016.png)
