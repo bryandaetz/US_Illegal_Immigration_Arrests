@@ -23,7 +23,7 @@ The original dataset was extremely messy so it required some cleaning before any
 It is important to note that the numbers listed are only the illegal immigrants that were ARRESTED.  This means that there were almost certainly more illegal immigrants each year that managed to enter the country unnoticed.  As such I cannot claim that my analysis is an accurate representation of trends in illegal immigration overall; it only extends to illegal immigrants that were arrested.
 
 ## Overview of Arrest Trends
-Looking at the overall arrest totals for each year, it is immediately apparent that the numbers have been decreasing overall for both demographics.  With the exception of a spike in arrests in the years 2004 and 2005, the numbers have consistently decreased each year.
+Looking at the overall arrest totals for each year, it is immediately apparent that the numbers have been decreasing overall for both demographics.  With the exception of spikes in arrests in the years 2004 and 2005, and spikes in 2014 and 2016 for the All Illegal Immigrants demographic only, the numbers have consistently decreased each year.
 
 Additionally, the percentage of the arrests accounted for by Mexican Illegal Immigrants began decreasing significantly starting in 2010 and dropped down to only 46.41% in 2016.
 
