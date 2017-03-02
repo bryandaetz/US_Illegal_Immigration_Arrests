@@ -54,8 +54,4 @@ Additionally, the percentage of the arrests accounted for by Mexican Illegal Imm
 ![alt-title](Illegal Immigration Images/Northern Border Arrests.png)
 ![alt-title](Illegal Immigration Images/Southwest Border Arrests.png)
 
-## Breakdown of Arrests by Sector
-![alt-title](Illegal Immigration Images/Sectors with Most Arrests '00.png)
-![alt-title](Illegal Immigration Images/Arrests Map 2000.png)
-![alt-title](Illegal Immigration Images/Sectors with Most Arrests '16.png)
-![alt-title](Illegal Immigration Images/Arrest Map 2016.png)
+
