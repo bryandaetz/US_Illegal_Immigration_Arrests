@@ -28,7 +28,7 @@ Additionally, the percentage of the arrests accounted for by Mexican Illegal Imm
 
 ![alt-title](Illegal Immigration Images/Illegal Immigration Arrest Totals by Year.png)
 
-|   Year | Percentage | Mexicans Arrested | Total_Arrests |
+|   Year | Percentage | Mexicans Arrested | Total Arrests |
 |--------|------------|-------------------|---------------|
 |  2000   |   97.64    |      1636883   |    1676438     |
 | 2001    |  96.67     |     1224047     |  1266214       |
@@ -47,3 +47,5 @@ Additionally, the percentage of the arrests accounted for by Mexican Illegal Imm
 | 2014    |  47.09      |      229178     |   486651      |
 | 2015    |  55.80      |      188122     |   337117      |
 | 2016    |  46.41      |      192969     |   415816      |
+
+
