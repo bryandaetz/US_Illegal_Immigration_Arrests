@@ -15,8 +15,7 @@ Illegal immigration has always been a controversial issue.  This is especially t
 ## Notes About the Dataset
 The dataset I used for this project can be found on the Kaggle website.
 
-Here is a link to the original dataset:
-https://www.kaggle.com/cbp/illegal-immigrants
+[Here](https://www.kaggle.com/cbp/illegal-immigrants) is a link to the original dataset:
 
 The original dataset was extremely messy so it required some cleaning before any analysis could be done.  I have uploaded the "clean" dataset as a csv file as well.  It contains information on two demographics: Mexican Illegal Immigrants and All Illegal Immigrants.
 
