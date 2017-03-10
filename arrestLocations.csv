@@ -1,0 +1,715 @@
+"","Border","Sector","State.Territory","Year","Demographic","Number_Arrested","lon","lat"
+"1","Coast","Livermore","CA",2000,"All Immigrants",6205,-121.7680088,37.6818745
+"2","Coast","Miami","FL, GA, SC, NC",2000,"All Immigrants",6237,-80.1917902,25.7616798
+"3","Coast","New Orleans","LA, AL, MS, FL",2000,"All Immigrants",6478,-90.0715323,29.9510658
+"4","Coast","Ramey","PR",2000,"All Immigrants",1731,-78.3972413,40.7981154
+"5","North","Blaine","WA, OR",2000,"All Immigrants",2581,-93.2349489,45.1607987
+"6","North","Buffalo","NY, PA",2000,"All Immigrants",1570,-78.8783689,42.8864468
+"7","North","Detroit","OH, MI, IN, IL",2000,"All Immigrants",2057,-83.0457538,42.331427
+"8","North","Grand Forks","WI, MN, ND",2000,"All Immigrants",562,-97.0328547,47.9252568
+"9","North","Havre","MT",2000,"All Immigrants",1568,-109.6840887,48.549999
+"10","North","Houlton","ME",2000,"All Immigrants",489,-67.8402316,46.1261806
+"11","North","Spokane","MT, ID, WA",2000,"All Immigrants",1324,-117.4260466,47.6587802
+"12","North","Swanton","NH, VT, NY",2000,"All Immigrants",1957,-83.8910534,41.5886629
+"13","Southwest","Big Bend","TX",2000,"All Immigrants",13689,-103.2425379,29.1274869
+"14","Southwest","Del Rio","TX",2000,"All Immigrants",157178,-100.8958674,29.3708857
+"15","Southwest","El Centro","CA",2000,"All Immigrants",238126,-115.5630514,32.792
+"16","Southwest","El Paso","NM, TX",2000,"All Immigrants",115696,-106.4850217,31.7618778
+"17","Southwest","Laredo","TX",2000,"All Immigrants",108973,-99.4803241,27.5305671
+"18","Southwest","Rio Grande Valley","TX",2000,"All Immigrants",133243,-97.887797,26.162872
+"19","Southwest","San Diego","CA",2000,"All Immigrants",151681,-117.1610838,32.715738
+"20","Southwest","Tucson","AZ",2000,"All Immigrants",616346,-110.926479,32.2217429
+"21","Southwest","Yuma","CA, AZ",2000,"All Immigrants",108747,-114.6276916,32.6926512
+"22","Coast","Livermore","CA",2000,"Mexicans",6034,-121.7680088,37.6818745
+"23","Coast","Miami","FL, GA, SC, NC",2000,"Mexicans",2421,-80.1917902,25.7616798
+"24","Coast","New Orleans","LA, AL, MS, FL",2000,"Mexicans",5985,-90.0715323,29.9510658
+"25","Coast","Ramey","PR",2000,"Mexicans",0,-78.3972413,40.7981154
+"26","North","Blaine","WA, OR",2000,"Mexicans",1560,-93.2349489,45.1607987
+"27","North","Buffalo","NY, PA",2000,"Mexicans",978,-78.8783689,42.8864468
+"28","North","Detroit","OH, MI, IN, IL",2000,"Mexicans",1634,-83.0457538,42.331427
+"29","North","Grand Forks","WI, MN, ND",2000,"Mexicans",373,-97.0328547,47.9252568
+"30","North","Havre","MT",2000,"Mexicans",1375,-109.6840887,48.549999
+"31","North","Houlton","ME",2000,"Mexicans",135,-67.8402316,46.1261806
+"32","North","Spokane","MT, ID, WA",2000,"Mexicans",1205,-117.4260466,47.6587802
+"33","North","Swanton","NH, VT, NY",2000,"Mexicans",102,-83.8910534,41.5886629
+"34","Southwest","Big Bend","TX",2000,"Mexicans",12851,-103.2425379,29.1274869
+"35","Southwest","Del Rio","TX",2000,"Mexicans",150467,-100.8958674,29.3708857
+"36","Southwest","El Centro","CA",2000,"Mexicans",236346,-115.5630514,32.792
+"37","Southwest","El Paso","NM, TX",2000,"Mexicans",114299,-106.4850217,31.7618778
+"38","Southwest","Laredo","TX",2000,"Mexicans",105637,-99.4803241,27.5305671
+"39","Southwest","Rio Grande Valley","TX",2000,"Mexicans",122501,-97.887797,26.162872
+"40","Southwest","San Diego","CA",2000,"Mexicans",150599,-117.1610838,32.715738
+"41","Southwest","Tucson","AZ",2000,"Mexicans",614145,-110.926479,32.2217429
+"42","Southwest","Yuma","CA, AZ",2000,"Mexicans",108236,-114.6276916,32.6926512
+"43","Coast","Livermore","CA",2001,"All Immigrants",5211,-121.7680088,37.6818745
+"44","Coast","Miami","FL, GA, SC, NC",2001,"All Immigrants",5962,-80.1917902,25.7616798
+"45","Coast","New Orleans","LA, AL, MS, FL",2001,"All Immigrants",5033,-90.0715323,29.9510658
+"46","Coast","Ramey","PR",2001,"All Immigrants",1952,-78.3972413,40.7981154
+"47","North","Blaine","WA, OR",2001,"All Immigrants",2089,-93.2349489,45.1607987
+"48","North","Buffalo","NY, PA",2001,"All Immigrants",1434,-78.8783689,42.8864468
+"49","North","Detroit","OH, MI, IN, IL",2001,"All Immigrants",2106,-83.0457538,42.331427
+"50","North","Grand Forks","WI, MN, ND",2001,"All Immigrants",921,-97.0328547,47.9252568
+"51","North","Havre","MT",2001,"All Immigrants",1305,-109.6840887,48.549999
+"52","North","Houlton","ME",2001,"All Immigrants",685,-67.8402316,46.1261806
+"53","North","Spokane","MT, ID, WA",2001,"All Immigrants",1335,-117.4260466,47.6587802
+"54","North","Swanton","NH, VT, NY",2001,"All Immigrants",2463,-83.8910534,41.5886629
+"55","Southwest","Big Bend","TX",2001,"All Immigrants",12087,-103.2425379,29.1274869
+"56","Southwest","Del Rio","TX",2001,"All Immigrants",104875,-100.8958674,29.3708857
+"57","Southwest","El Centro","CA",2001,"All Immigrants",172852,-115.5630514,32.792
+"58","Southwest","El Paso","NM, TX",2001,"All Immigrants",112857,-106.4850217,31.7618778
+"59","Southwest","Laredo","TX",2001,"All Immigrants",87068,-99.4803241,27.5305671
+"60","Southwest","Rio Grande Valley","TX",2001,"All Immigrants",107844,-97.887797,26.162872
+"61","Southwest","San Diego","CA",2001,"All Immigrants",110075,-117.1610838,32.715738
+"62","Southwest","Tucson","AZ",2001,"All Immigrants",449675,-110.926479,32.2217429
+"63","Southwest","Yuma","CA, AZ",2001,"All Immigrants",78385,-114.6276916,32.6926512
+"64","Coast","Livermore","CA",2001,"Mexicans",5007,-121.7680088,37.6818745
+"65","Coast","Miami","FL, GA, SC, NC",2001,"Mexicans",1590,-80.1917902,25.7616798
+"66","Coast","New Orleans","LA, AL, MS, FL",2001,"Mexicans",4616,-90.0715323,29.9510658
+"67","Coast","Ramey","PR",2001,"Mexicans",0,-78.3972413,40.7981154
+"68","North","Blaine","WA, OR",2001,"Mexicans",1214,-93.2349489,45.1607987
+"69","North","Buffalo","NY, PA",2001,"Mexicans",850,-78.8783689,42.8864468
+"70","North","Detroit","OH, MI, IN, IL",2001,"Mexicans",1772,-83.0457538,42.331427
+"71","North","Grand Forks","WI, MN, ND",2001,"Mexicans",755,-97.0328547,47.9252568
+"72","North","Havre","MT",2001,"Mexicans",1153,-109.6840887,48.549999
+"73","North","Houlton","ME",2001,"Mexicans",300,-67.8402316,46.1261806
+"74","North","Spokane","MT, ID, WA",2001,"Mexicans",1252,-117.4260466,47.6587802
+"75","North","Swanton","NH, VT, NY",2001,"Mexicans",148,-83.8910534,41.5886629
+"76","Southwest","Big Bend","TX",2001,"Mexicans",11107,-103.2425379,29.1274869
+"77","Southwest","Del Rio","TX",2001,"Mexicans",100265,-100.8958674,29.3708857
+"78","Southwest","El Centro","CA",2001,"Mexicans",171866,-115.5630514,32.792
+"79","Southwest","El Paso","NM, TX",2001,"Mexicans",110679,-106.4850217,31.7618778
+"80","Southwest","Laredo","TX",2001,"Mexicans",82460,-99.4803241,27.5305671
+"81","Southwest","Rio Grande Valley","TX",2001,"Mexicans",95287,-97.887797,26.162872
+"82","Southwest","San Diego","CA",2001,"Mexicans",109281,-117.1610838,32.715738
+"83","Southwest","Tucson","AZ",2001,"Mexicans",446471,-110.926479,32.2217429
+"84","Southwest","Yuma","CA, AZ",2001,"Mexicans",77974,-114.6276916,32.6926512
+"85","Coast","Livermore","CA",2002,"All Immigrants",4371,-121.7680088,37.6818745
+"86","Coast","Miami","FL, GA, SC, NC",2002,"All Immigrants",5143,-80.1917902,25.7616798
+"87","Coast","New Orleans","LA, AL, MS, FL",2002,"All Immigrants",4665,-90.0715323,29.9510658
+"88","Coast","Ramey","PR",2002,"All Immigrants",835,-78.3972413,40.7981154
+"89","North","Blaine","WA, OR",2002,"All Immigrants",1732,-93.2349489,45.1607987
+"90","North","Buffalo","NY, PA",2002,"All Immigrants",1102,-78.8783689,42.8864468
+"91","North","Detroit","OH, MI, IN, IL",2002,"All Immigrants",1511,-83.0457538,42.331427
+"92","North","Grand Forks","WI, MN, ND",2002,"All Immigrants",1369,-97.0328547,47.9252568
+"93","North","Havre","MT",2002,"All Immigrants",1463,-109.6840887,48.549999
+"94","North","Houlton","ME",2002,"All Immigrants",432,-67.8402316,46.1261806
+"95","North","Spokane","MT, ID, WA",2002,"All Immigrants",1142,-117.4260466,47.6587802
+"96","North","Swanton","NH, VT, NY",2002,"All Immigrants",1736,-83.8910534,41.5886629
+"97","Southwest","Big Bend","TX",2002,"All Immigrants",11392,-103.2425379,29.1274869
+"98","Southwest","Del Rio","TX",2002,"All Immigrants",66985,-100.8958674,29.3708857
+"99","Southwest","El Centro","CA",2002,"All Immigrants",108273,-115.5630514,32.792
+"100","Southwest","El Paso","NM, TX",2002,"All Immigrants",94154,-106.4850217,31.7618778
+"101","Southwest","Laredo","TX",2002,"All Immigrants",82095,-99.4803241,27.5305671
+"102","Southwest","Rio Grande Valley","TX",2002,"All Immigrants",89927,-97.887797,26.162872
+"103","Southwest","San Diego","CA",2002,"All Immigrants",100681,-117.1610838,32.715738
+"104","Southwest","Tucson","AZ",2002,"All Immigrants",333648,-110.926479,32.2217429
+"105","Southwest","Yuma","CA, AZ",2002,"All Immigrants",42654,-114.6276916,32.6926512
+"106","Coast","Livermore","CA",2002,"Mexicans",4186,-121.7680088,37.6818745
+"107","Coast","Miami","FL, GA, SC, NC",2002,"Mexicans",1825,-80.1917902,25.7616798
+"108","Coast","New Orleans","LA, AL, MS, FL",2002,"Mexicans",4126,-90.0715323,29.9510658
+"109","Coast","Ramey","PR",2002,"Mexicans",0,-78.3972413,40.7981154
+"110","North","Blaine","WA, OR",2002,"Mexicans",1059,-93.2349489,45.1607987
+"111","North","Buffalo","NY, PA",2002,"Mexicans",421,-78.8783689,42.8864468
+"112","North","Detroit","OH, MI, IN, IL",2002,"Mexicans",1125,-83.0457538,42.331427
+"113","North","Grand Forks","WI, MN, ND",2002,"Mexicans",1068,-97.0328547,47.9252568
+"114","North","Havre","MT",2002,"Mexicans",1199,-109.6840887,48.549999
+"115","North","Houlton","ME",2002,"Mexicans",49,-67.8402316,46.1261806
+"116","North","Spokane","MT, ID, WA",2002,"Mexicans",1006,-117.4260466,47.6587802
+"117","North","Swanton","NH, VT, NY",2002,"Mexicans",168,-83.8910534,41.5886629
+"118","Southwest","Big Bend","TX",2002,"Mexicans",10321,-103.2425379,29.1274869
+"119","Southwest","Del Rio","TX",2002,"Mexicans",64169,-100.8958674,29.3708857
+"120","Southwest","El Centro","CA",2002,"Mexicans",107411,-115.5630514,32.792
+"121","Southwest","El Paso","NM, TX",2002,"Mexicans",91655,-106.4850217,31.7618778
+"122","Southwest","Laredo","TX",2002,"Mexicans",77815,-99.4803241,27.5305671
+"123","Southwest","Rio Grande Valley","TX",2002,"Mexicans",78588,-97.887797,26.162872
+"124","Southwest","San Diego","CA",2002,"Mexicans",99551,-117.1610838,32.715738
+"125","Southwest","Tucson","AZ",2002,"Mexicans",329991,-110.926479,32.2217429
+"126","Southwest","Yuma","CA, AZ",2002,"Mexicans",42260,-114.6276916,32.6926512
+"127","Coast","Livermore","CA",2003,"All Immigrants",3565,-121.7680088,37.6818745
+"128","Coast","Miami","FL, GA, SC, NC",2003,"All Immigrants",5931,-80.1917902,25.7616798
+"129","Coast","New Orleans","LA, AL, MS, FL",2003,"All Immigrants",5151,-90.0715323,29.9510658
+"130","Coast","Ramey","PR",2003,"All Immigrants",1688,-78.3972413,40.7981154
+"131","North","Blaine","WA, OR",2003,"All Immigrants",1380,-93.2349489,45.1607987
+"132","North","Buffalo","NY, PA",2003,"All Immigrants",564,-78.8783689,42.8864468
+"133","North","Detroit","OH, MI, IN, IL",2003,"All Immigrants",2345,-83.0457538,42.331427
+"134","North","Grand Forks","WI, MN, ND",2003,"All Immigrants",1223,-97.0328547,47.9252568
+"135","North","Havre","MT",2003,"All Immigrants",1406,-109.6840887,48.549999
+"136","North","Houlton","ME",2003,"All Immigrants",292,-67.8402316,46.1261806
+"137","North","Spokane","MT, ID, WA",2003,"All Immigrants",992,-117.4260466,47.6587802
+"138","North","Swanton","NH, VT, NY",2003,"All Immigrants",1955,-83.8910534,41.5886629
+"139","Southwest","Big Bend","TX",2003,"All Immigrants",10319,-103.2425379,29.1274869
+"140","Southwest","Del Rio","TX",2003,"All Immigrants",50145,-100.8958674,29.3708857
+"141","Southwest","El Centro","CA",2003,"All Immigrants",92099,-115.5630514,32.792
+"142","Southwest","El Paso","NM, TX",2003,"All Immigrants",88816,-106.4850217,31.7618778
+"143","Southwest","Laredo","TX",2003,"All Immigrants",70521,-99.4803241,27.5305671
+"144","Southwest","Rio Grande Valley","TX",2003,"All Immigrants",77749,-97.887797,26.162872
+"145","Southwest","San Diego","CA",2003,"All Immigrants",111515,-117.1610838,32.715738
+"146","Southwest","Tucson","AZ",2003,"All Immigrants",347263,-110.926479,32.2217429
+"147","Southwest","Yuma","CA, AZ",2003,"All Immigrants",56638,-114.6276916,32.6926512
+"148","Coast","Livermore","CA",2003,"Mexicans",3382,-121.7680088,37.6818745
+"149","Coast","Miami","FL, GA, SC, NC",2003,"Mexicans",2481,-80.1917902,25.7616798
+"150","Coast","New Orleans","LA, AL, MS, FL",2003,"Mexicans",4352,-90.0715323,29.9510658
+"151","Coast","Ramey","PR",2003,"Mexicans",0,-78.3972413,40.7981154
+"152","North","Blaine","WA, OR",2003,"Mexicans",754,-93.2349489,45.1607987
+"153","North","Buffalo","NY, PA",2003,"Mexicans",218,-78.8783689,42.8864468
+"154","North","Detroit","OH, MI, IN, IL",2003,"Mexicans",1672,-83.0457538,42.331427
+"155","North","Grand Forks","WI, MN, ND",2003,"Mexicans",1009,-97.0328547,47.9252568
+"156","North","Havre","MT",2003,"Mexicans",1153,-109.6840887,48.549999
+"157","North","Houlton","ME",2003,"Mexicans",52,-67.8402316,46.1261806
+"158","North","Spokane","MT, ID, WA",2003,"Mexicans",839,-117.4260466,47.6587802
+"159","North","Swanton","NH, VT, NY",2003,"Mexicans",250,-83.8910534,41.5886629
+"160","Southwest","Big Bend","TX",2003,"Mexicans",9477,-103.2425379,29.1274869
+"161","Southwest","Del Rio","TX",2003,"Mexicans",45779,-100.8958674,29.3708857
+"162","Southwest","El Centro","CA",2003,"Mexicans",91116,-115.5630514,32.792
+"163","Southwest","El Paso","NM, TX",2003,"Mexicans",86097,-106.4850217,31.7618778
+"164","Southwest","Laredo","TX",2003,"Mexicans",62734,-99.4803241,27.5305671
+"165","Southwest","Rio Grande Valley","TX",2003,"Mexicans",62830,-97.887797,26.162872
+"166","Southwest","San Diego","CA",2003,"Mexicans",109919,-117.1610838,32.715738
+"167","Southwest","Tucson","AZ",2003,"Mexicans",341971,-110.926479,32.2217429
+"168","Southwest","Yuma","CA, AZ",2003,"Mexicans",55927,-114.6276916,32.6926512
+"169","Coast","Livermore","CA",2004,"All Immigrants",1850,-121.7680088,37.6818745
+"170","Coast","Miami","FL, GA, SC, NC",2004,"All Immigrants",4602,-80.1917902,25.7616798
+"171","Coast","New Orleans","LA, AL, MS, FL",2004,"All Immigrants",2889,-90.0715323,29.9510658
+"172","Coast","Ramey","PR",2004,"All Immigrants",1813,-78.3972413,40.7981154
+"173","North","Blaine","WA, OR",2004,"All Immigrants",1354,-93.2349489,45.1607987
+"174","North","Buffalo","NY, PA",2004,"All Immigrants",671,-78.8783689,42.8864468
+"175","North","Detroit","OH, MI, IN, IL",2004,"All Immigrants",1912,-83.0457538,42.331427
+"176","North","Grand Forks","WI, MN, ND",2004,"All Immigrants",1225,-97.0328547,47.9252568
+"177","North","Havre","MT",2004,"All Immigrants",986,-109.6840887,48.549999
+"178","North","Houlton","ME",2004,"All Immigrants",263,-67.8402316,46.1261806
+"179","North","Spokane","MT, ID, WA",2004,"All Immigrants",847,-117.4260466,47.6587802
+"180","North","Swanton","NH, VT, NY",2004,"All Immigrants",2701,-83.8910534,41.5886629
+"181","Southwest","Big Bend","TX",2004,"All Immigrants",10530,-103.2425379,29.1274869
+"182","Southwest","Del Rio","TX",2004,"All Immigrants",53794,-100.8958674,29.3708857
+"183","Southwest","El Centro","CA",2004,"All Immigrants",74467,-115.5630514,32.792
+"184","Southwest","El Paso","NM, TX",2004,"All Immigrants",104399,-106.4850217,31.7618778
+"185","Southwest","Laredo","TX",2004,"All Immigrants",74706,-99.4803241,27.5305671
+"186","Southwest","Rio Grande Valley","TX",2004,"All Immigrants",92947,-97.887797,26.162872
+"187","Southwest","San Diego","CA",2004,"All Immigrants",138608,-117.1610838,32.715738
+"188","Southwest","Tucson","AZ",2004,"All Immigrants",491771,-110.926479,32.2217429
+"189","Southwest","Yuma","CA, AZ",2004,"All Immigrants",98060,-114.6276916,32.6926512
+"190","Coast","Livermore","CA",2004,"Mexicans",1753,-121.7680088,37.6818745
+"191","Coast","Miami","FL, GA, SC, NC",2004,"Mexicans",2007,-80.1917902,25.7616798
+"192","Coast","New Orleans","LA, AL, MS, FL",2004,"Mexicans",2280,-90.0715323,29.9510658
+"193","Coast","Ramey","PR",2004,"Mexicans",3,-78.3972413,40.7981154
+"194","North","Blaine","WA, OR",2004,"Mexicans",759,-93.2349489,45.1607987
+"195","North","Buffalo","NY, PA",2004,"Mexicans",240,-78.8783689,42.8864468
+"196","North","Detroit","OH, MI, IN, IL",2004,"Mexicans",1353,-83.0457538,42.331427
+"197","North","Grand Forks","WI, MN, ND",2004,"Mexicans",1011,-97.0328547,47.9252568
+"198","North","Havre","MT",2004,"Mexicans",844,-109.6840887,48.549999
+"199","North","Houlton","ME",2004,"Mexicans",89,-67.8402316,46.1261806
+"200","North","Spokane","MT, ID, WA",2004,"Mexicans",742,-117.4260466,47.6587802
+"201","North","Swanton","NH, VT, NY",2004,"Mexicans",457,-83.8910534,41.5886629
+"202","Southwest","Big Bend","TX",2004,"Mexicans",9736,-103.2425379,29.1274869
+"203","Southwest","Del Rio","TX",2004,"Mexicans",43931,-100.8958674,29.3708857
+"204","Southwest","El Centro","CA",2004,"Mexicans",73741,-115.5630514,32.792
+"205","Southwest","El Paso","NM, TX",2004,"Mexicans",100842,-106.4850217,31.7618778
+"206","Southwest","Laredo","TX",2004,"Mexicans",62220,-99.4803241,27.5305671
+"207","Southwest","Rio Grande Valley","TX",2004,"Mexicans",66521,-97.887797,26.162872
+"208","Southwest","San Diego","CA",2004,"Mexicans",136847,-117.1610838,32.715738
+"209","Southwest","Tucson","AZ",2004,"Mexicans",482990,-110.926479,32.2217429
+"210","Southwest","Yuma","CA, AZ",2004,"Mexicans",96640,-114.6276916,32.6926512
+"211","Coast","Livermore","CA",2005,"All Immigrants",114,-121.7680088,37.6818745
+"212","Coast","Miami","FL, GA, SC, NC",2005,"All Immigrants",7245,-80.1917902,25.7616798
+"213","Coast","New Orleans","LA, AL, MS, FL",2005,"All Immigrants",1358,-90.0715323,29.9510658
+"214","Coast","Ramey","PR",2005,"All Immigrants",1619,-78.3972413,40.7981154
+"215","North","Blaine","WA, OR",2005,"All Immigrants",1001,-93.2349489,45.1607987
+"216","North","Buffalo","NY, PA",2005,"All Immigrants",400,-78.8783689,42.8864468
+"217","North","Detroit","OH, MI, IN, IL",2005,"All Immigrants",1793,-83.0457538,42.331427
+"218","North","Grand Forks","WI, MN, ND",2005,"All Immigrants",754,-97.0328547,47.9252568
+"219","North","Havre","MT",2005,"All Immigrants",948,-109.6840887,48.549999
+"220","North","Houlton","ME",2005,"All Immigrants",233,-67.8402316,46.1261806
+"221","North","Spokane","MT, ID, WA",2005,"All Immigrants",279,-117.4260466,47.6587802
+"222","North","Swanton","NH, VT, NY",2005,"All Immigrants",1935,-83.8910534,41.5886629
+"223","Southwest","Big Bend","TX",2005,"All Immigrants",10536,-103.2425379,29.1274869
+"224","Southwest","Del Rio","TX",2005,"All Immigrants",68506,-100.8958674,29.3708857
+"225","Southwest","El Centro","CA",2005,"All Immigrants",55722,-115.5630514,32.792
+"226","Southwest","El Paso","NM, TX",2005,"All Immigrants",122679,-106.4850217,31.7618778
+"227","Southwest","Laredo","TX",2005,"All Immigrants",75346,-99.4803241,27.5305671
+"228","Southwest","Rio Grande Valley","TX",2005,"All Immigrants",134186,-97.887797,26.162872
+"229","Southwest","San Diego","CA",2005,"All Immigrants",126904,-117.1610838,32.715738
+"230","Southwest","Tucson","AZ",2005,"All Immigrants",439079,-110.926479,32.2217429
+"231","Southwest","Yuma","CA, AZ",2005,"All Immigrants",138438,-114.6276916,32.6926512
+"232","Coast","Livermore","CA",2005,"Mexicans",106,-121.7680088,37.6818745
+"233","Coast","Miami","FL, GA, SC, NC",2005,"Mexicans",2325,-80.1917902,25.7616798
+"234","Coast","New Orleans","LA, AL, MS, FL",2005,"Mexicans",983,-90.0715323,29.9510658
+"235","Coast","Ramey","PR",2005,"Mexicans",1,-78.3972413,40.7981154
+"236","North","Blaine","WA, OR",2005,"Mexicans",506,-93.2349489,45.1607987
+"237","North","Buffalo","NY, PA",2005,"Mexicans",221,-78.8783689,42.8864468
+"238","North","Detroit","OH, MI, IN, IL",2005,"Mexicans",1327,-83.0457538,42.331427
+"239","North","Grand Forks","WI, MN, ND",2005,"Mexicans",580,-97.0328547,47.9252568
+"240","North","Havre","MT",2005,"Mexicans",807,-109.6840887,48.549999
+"241","North","Houlton","ME",2005,"Mexicans",76,-67.8402316,46.1261806
+"242","North","Spokane","MT, ID, WA",2005,"Mexicans",173,-117.4260466,47.6587802
+"243","North","Swanton","NH, VT, NY",2005,"Mexicans",391,-83.8910534,41.5886629
+"244","Southwest","Big Bend","TX",2005,"Mexicans",9568,-103.2425379,29.1274869
+"245","Southwest","Del Rio","TX",2005,"Mexicans",37276,-100.8958674,29.3708857
+"246","Southwest","El Centro","CA",2005,"Mexicans",54770,-115.5630514,32.792
+"247","Southwest","El Paso","NM, TX",2005,"Mexicans",117780,-106.4850217,31.7618778
+"248","Southwest","Laredo","TX",2005,"Mexicans",54553,-99.4803241,27.5305671
+"249","Southwest","Rio Grande Valley","TX",2005,"Mexicans",54332,-97.887797,26.162872
+"250","Southwest","San Diego","CA",2005,"Mexicans",124947,-117.1610838,32.715738
+"251","Southwest","Tucson","AZ",2005,"Mexicans",426416,-110.926479,32.2217429
+"252","Southwest","Yuma","CA, AZ",2005,"Mexicans",136767,-114.6276916,32.6926512
+"253","Coast","Livermore","CA",2006,"All Immigrants",NA,-121.7680088,37.6818745
+"254","Coast","Miami","FL, GA, SC, NC",2006,"All Immigrants",6032,-80.1917902,25.7616798
+"255","Coast","New Orleans","LA, AL, MS, FL",2006,"All Immigrants",3053,-90.0715323,29.9510658
+"256","Coast","Ramey","PR",2006,"All Immigrants",1436,-78.3972413,40.7981154
+"257","North","Blaine","WA, OR",2006,"All Immigrants",811,-93.2349489,45.1607987
+"258","North","Buffalo","NY, PA",2006,"All Immigrants",1517,-78.8783689,42.8864468
+"259","North","Detroit","OH, MI, IN, IL",2006,"All Immigrants",1281,-83.0457538,42.331427
+"260","North","Grand Forks","WI, MN, ND",2006,"All Immigrants",518,-97.0328547,47.9252568
+"261","North","Havre","MT",2006,"All Immigrants",568,-109.6840887,48.549999
+"262","North","Houlton","ME",2006,"All Immigrants",175,-67.8402316,46.1261806
+"263","North","Spokane","MT, ID, WA",2006,"All Immigrants",185,-117.4260466,47.6587802
+"264","North","Swanton","NH, VT, NY",2006,"All Immigrants",1544,-83.8910534,41.5886629
+"265","Southwest","Big Bend","TX",2006,"All Immigrants",7520,-103.2425379,29.1274869
+"266","Southwest","Del Rio","TX",2006,"All Immigrants",42636,-100.8958674,29.3708857
+"267","Southwest","El Centro","CA",2006,"All Immigrants",61465,-115.5630514,32.792
+"268","Southwest","El Paso","NM, TX",2006,"All Immigrants",122256,-106.4850217,31.7618778
+"269","Southwest","Laredo","TX",2006,"All Immigrants",74840,-99.4803241,27.5305671
+"270","Southwest","Rio Grande Valley","TX",2006,"All Immigrants",110528,-97.887797,26.162872
+"271","Southwest","San Diego","CA",2006,"All Immigrants",142104,-117.1610838,32.715738
+"272","Southwest","Tucson","AZ",2006,"All Immigrants",392074,-110.926479,32.2217429
+"273","Southwest","Yuma","CA, AZ",2006,"All Immigrants",118549,-114.6276916,32.6926512
+"274","Coast","Livermore","CA",2006,"Mexicans",NA,-121.7680088,37.6818745
+"275","Coast","Miami","FL, GA, SC, NC",2006,"Mexicans",1616,-80.1917902,25.7616798
+"276","Coast","New Orleans","LA, AL, MS, FL",2006,"Mexicans",1840,-90.0715323,29.9510658
+"277","Coast","Ramey","PR",2006,"Mexicans",2,-78.3972413,40.7981154
+"278","North","Blaine","WA, OR",2006,"Mexicans",485,-93.2349489,45.1607987
+"279","North","Buffalo","NY, PA",2006,"Mexicans",959,-78.8783689,42.8864468
+"280","North","Detroit","OH, MI, IN, IL",2006,"Mexicans",944,-83.0457538,42.331427
+"281","North","Grand Forks","WI, MN, ND",2006,"Mexicans",383,-97.0328547,47.9252568
+"282","North","Havre","MT",2006,"Mexicans",511,-109.6840887,48.549999
+"283","North","Houlton","ME",2006,"Mexicans",58,-67.8402316,46.1261806
+"284","North","Spokane","MT, ID, WA",2006,"Mexicans",108,-117.4260466,47.6587802
+"285","North","Swanton","NH, VT, NY",2006,"Mexicans",341,-83.8910534,41.5886629
+"286","Southwest","Big Bend","TX",2006,"Mexicans",6791,-103.2425379,29.1274869
+"287","Southwest","Del Rio","TX",2006,"Mexicans",30361,-100.8958674,29.3708857
+"288","Southwest","El Centro","CA",2006,"Mexicans",60723,-115.5630514,32.792
+"289","Southwest","El Paso","NM, TX",2006,"Mexicans",117532,-106.4850217,31.7618778
+"290","Southwest","Laredo","TX",2006,"Mexicans",59146,-99.4803241,27.5305671
+"291","Southwest","Rio Grande Valley","TX",2006,"Mexicans",58282,-97.887797,26.162872
+"292","Southwest","San Diego","CA",2006,"Mexicans",140821,-117.1610838,32.715738
+"293","Southwest","Tucson","AZ",2006,"Mexicans",382610,-110.926479,32.2217429
+"294","Southwest","Yuma","CA, AZ",2006,"Mexicans",117553,-114.6276916,32.6926512
+"295","Coast","Livermore","CA",2007,"All Immigrants",NA,-121.7680088,37.6818745
+"296","Coast","Miami","FL, GA, SC, NC",2007,"All Immigrants",7120,-80.1917902,25.7616798
+"297","Coast","New Orleans","LA, AL, MS, FL",2007,"All Immigrants",4018,-90.0715323,29.9510658
+"298","Coast","Ramey","PR",2007,"All Immigrants",548,-78.3972413,40.7981154
+"299","North","Blaine","WA, OR",2007,"All Immigrants",749,-93.2349489,45.1607987
+"300","North","Buffalo","NY, PA",2007,"All Immigrants",2191,-78.8783689,42.8864468
+"301","North","Detroit","OH, MI, IN, IL",2007,"All Immigrants",902,-83.0457538,42.331427
+"302","North","Grand Forks","WI, MN, ND",2007,"All Immigrants",497,-97.0328547,47.9252568
+"303","North","Havre","MT",2007,"All Immigrants",486,-109.6840887,48.549999
+"304","North","Houlton","ME",2007,"All Immigrants",95,-67.8402316,46.1261806
+"305","North","Spokane","MT, ID, WA",2007,"All Immigrants",341,-117.4260466,47.6587802
+"306","North","Swanton","NH, VT, NY",2007,"All Immigrants",1119,-83.8910534,41.5886629
+"307","Southwest","Big Bend","TX",2007,"All Immigrants",5536,-103.2425379,29.1274869
+"308","Southwest","Del Rio","TX",2007,"All Immigrants",22920,-100.8958674,29.3708857
+"309","Southwest","El Centro","CA",2007,"All Immigrants",55883,-115.5630514,32.792
+"310","Southwest","El Paso","NM, TX",2007,"All Immigrants",75464,-106.4850217,31.7618778
+"311","Southwest","Laredo","TX",2007,"All Immigrants",56714,-99.4803241,27.5305671
+"312","Southwest","Rio Grande Valley","TX",2007,"All Immigrants",73430,-97.887797,26.162872
+"313","Southwest","San Diego","CA",2007,"All Immigrants",152460,-117.1610838,32.715738
+"314","Southwest","Tucson","AZ",2007,"All Immigrants",378239,-110.926479,32.2217429
+"315","Southwest","Yuma","CA, AZ",2007,"All Immigrants",37992,-114.6276916,32.6926512
+"316","Coast","Livermore","CA",2007,"Mexicans",NA,-121.7680088,37.6818745
+"317","Coast","Miami","FL, GA, SC, NC",2007,"Mexicans",1612,-80.1917902,25.7616798
+"318","Coast","New Orleans","LA, AL, MS, FL",2007,"Mexicans",2633,-90.0715323,29.9510658
+"319","Coast","Ramey","PR",2007,"Mexicans",0,-78.3972413,40.7981154
+"320","North","Blaine","WA, OR",2007,"Mexicans",518,-93.2349489,45.1607987
+"321","North","Buffalo","NY, PA",2007,"Mexicans",1271,-78.8783689,42.8864468
+"322","North","Detroit","OH, MI, IN, IL",2007,"Mexicans",686,-83.0457538,42.331427
+"323","North","Grand Forks","WI, MN, ND",2007,"Mexicans",334,-97.0328547,47.9252568
+"324","North","Havre","MT",2007,"Mexicans",409,-109.6840887,48.549999
+"325","North","Houlton","ME",2007,"Mexicans",17,-67.8402316,46.1261806
+"326","North","Spokane","MT, ID, WA",2007,"Mexicans",290,-117.4260466,47.6587802
+"327","North","Swanton","NH, VT, NY",2007,"Mexicans",284,-83.8910534,41.5886629
+"328","Southwest","Big Bend","TX",2007,"Mexicans",5002,-103.2425379,29.1274869
+"329","Southwest","Del Rio","TX",2007,"Mexicans",16286,-100.8958674,29.3708857
+"330","Southwest","El Centro","CA",2007,"Mexicans",55271,-115.5630514,32.792
+"331","Southwest","El Paso","NM, TX",2007,"Mexicans",72293,-106.4850217,31.7618778
+"332","Southwest","Laredo","TX",2007,"Mexicans",44831,-99.4803241,27.5305671
+"333","Southwest","Rio Grande Valley","TX",2007,"Mexicans",51975,-97.887797,26.162872
+"334","Southwest","San Diego","CA",2007,"Mexicans",151140,-117.1610838,32.715738
+"335","Southwest","Tucson","AZ",2007,"Mexicans",366456,-110.926479,32.2217429
+"336","Southwest","Yuma","CA, AZ",2007,"Mexicans",37380,-114.6276916,32.6926512
+"337","Coast","Livermore","CA",2008,"All Immigrants",NA,-121.7680088,37.6818745
+"338","Coast","Miami","FL, GA, SC, NC",2008,"All Immigrants",6020,-80.1917902,25.7616798
+"339","Coast","New Orleans","LA, AL, MS, FL",2008,"All Immigrants",4303,-90.0715323,29.9510658
+"340","Coast","Ramey","PR",2008,"All Immigrants",572,-78.3972413,40.7981154
+"341","North","Blaine","WA, OR",2008,"All Immigrants",954,-93.2349489,45.1607987
+"342","North","Buffalo","NY, PA",2008,"All Immigrants",3339,-78.8783689,42.8864468
+"343","North","Detroit","OH, MI, IN, IL",2008,"All Immigrants",961,-83.0457538,42.331427
+"344","North","Grand Forks","WI, MN, ND",2008,"All Immigrants",541,-97.0328547,47.9252568
+"345","North","Havre","MT",2008,"All Immigrants",427,-109.6840887,48.549999
+"346","North","Houlton","ME",2008,"All Immigrants",81,-67.8402316,46.1261806
+"347","North","Spokane","MT, ID, WA",2008,"All Immigrants",340,-117.4260466,47.6587802
+"348","North","Swanton","NH, VT, NY",2008,"All Immigrants",1282,-83.8910534,41.5886629
+"349","Southwest","Big Bend","TX",2008,"All Immigrants",5391,-103.2425379,29.1274869
+"350","Southwest","Del Rio","TX",2008,"All Immigrants",20761,-100.8958674,29.3708857
+"351","Southwest","El Centro","CA",2008,"All Immigrants",40961,-115.5630514,32.792
+"352","Southwest","El Paso","NM, TX",2008,"All Immigrants",30312,-106.4850217,31.7618778
+"353","Southwest","Laredo","TX",2008,"All Immigrants",43658,-99.4803241,27.5305671
+"354","Southwest","Rio Grande Valley","TX",2008,"All Immigrants",75473,-97.887797,26.162872
+"355","Southwest","San Diego","CA",2008,"All Immigrants",162390,-117.1610838,32.715738
+"356","Southwest","Tucson","AZ",2008,"All Immigrants",317696,-110.926479,32.2217429
+"357","Southwest","Yuma","CA, AZ",2008,"All Immigrants",8363,-114.6276916,32.6926512
+"358","Coast","Livermore","CA",2008,"Mexicans",NA,-121.7680088,37.6818745
+"359","Coast","Miami","FL, GA, SC, NC",2008,"Mexicans",1564,-80.1917902,25.7616798
+"360","Coast","New Orleans","LA, AL, MS, FL",2008,"Mexicans",2923,-90.0715323,29.9510658
+"361","Coast","Ramey","PR",2008,"Mexicans",0,-78.3972413,40.7981154
+"362","North","Blaine","WA, OR",2008,"Mexicans",643,-93.2349489,45.1607987
+"363","North","Buffalo","NY, PA",2008,"Mexicans",1618,-78.8783689,42.8864468
+"364","North","Detroit","OH, MI, IN, IL",2008,"Mexicans",664,-83.0457538,42.331427
+"365","North","Grand Forks","WI, MN, ND",2008,"Mexicans",361,-97.0328547,47.9252568
+"366","North","Havre","MT",2008,"Mexicans",379,-109.6840887,48.549999
+"367","North","Houlton","ME",2008,"Mexicans",12,-67.8402316,46.1261806
+"368","North","Spokane","MT, ID, WA",2008,"Mexicans",296,-117.4260466,47.6587802
+"369","North","Swanton","NH, VT, NY",2008,"Mexicans",271,-83.8910534,41.5886629
+"370","Southwest","Big Bend","TX",2008,"Mexicans",4756,-103.2425379,29.1274869
+"371","Southwest","Del Rio","TX",2008,"Mexicans",14916,-100.8958674,29.3708857
+"372","Southwest","El Centro","CA",2008,"Mexicans",40159,-115.5630514,32.792
+"373","Southwest","El Paso","NM, TX",2008,"Mexicans",29137,-106.4850217,31.7618778
+"374","Southwest","Laredo","TX",2008,"Mexicans",34403,-99.4803241,27.5305671
+"375","Southwest","Rio Grande Valley","TX",2008,"Mexicans",55401,-97.887797,26.162872
+"376","Southwest","San Diego","CA",2008,"Mexicans",160818,-117.1610838,32.715738
+"377","Southwest","Tucson","AZ",2008,"Mexicans",305429,-110.926479,32.2217429
+"378","Southwest","Yuma","CA, AZ",2008,"Mexicans",8016,-114.6276916,32.6926512
+"379","Coast","Livermore","CA",2009,"All Immigrants",NA,-121.7680088,37.6818745
+"380","Coast","Miami","FL, GA, SC, NC",2009,"All Immigrants",4425,-80.1917902,25.7616798
+"381","Coast","New Orleans","LA, AL, MS, FL",2009,"All Immigrants",3527,-90.0715323,29.9510658
+"382","Coast","Ramey","PR",2009,"All Immigrants",418,-78.3972413,40.7981154
+"383","North","Blaine","WA, OR",2009,"All Immigrants",843,-93.2349489,45.1607987
+"384","North","Buffalo","NY, PA",2009,"All Immigrants",2672,-78.8783689,42.8864468
+"385","North","Detroit","OH, MI, IN, IL",2009,"All Immigrants",1157,-83.0457538,42.331427
+"386","North","Grand Forks","WI, MN, ND",2009,"All Immigrants",472,-97.0328547,47.9252568
+"387","North","Havre","MT",2009,"All Immigrants",283,-109.6840887,48.549999
+"388","North","Houlton","ME",2009,"All Immigrants",59,-67.8402316,46.1261806
+"389","North","Spokane","MT, ID, WA",2009,"All Immigrants",277,-117.4260466,47.6587802
+"390","North","Swanton","NH, VT, NY",2009,"All Immigrants",1043,-83.8910534,41.5886629
+"391","Southwest","Big Bend","TX",2009,"All Immigrants",6360,-103.2425379,29.1274869
+"392","Southwest","Del Rio","TX",2009,"All Immigrants",17082,-100.8958674,29.3708857
+"393","Southwest","El Centro","CA",2009,"All Immigrants",33521,-115.5630514,32.792
+"394","Southwest","El Paso","NM, TX",2009,"All Immigrants",14999,-106.4850217,31.7618778
+"395","Southwest","Laredo","TX",2009,"All Immigrants",40569,-99.4803241,27.5305671
+"396","Southwest","Rio Grande Valley","TX",2009,"All Immigrants",60989,-97.887797,26.162872
+"397","Southwest","San Diego","CA",2009,"All Immigrants",118721,-117.1610838,32.715738
+"398","Southwest","Tucson","AZ",2009,"All Immigrants",241673,-110.926479,32.2217429
+"399","Southwest","Yuma","CA, AZ",2009,"All Immigrants",6951,-114.6276916,32.6926512
+"400","Coast","Livermore","CA",2009,"Mexicans",NA,-121.7680088,37.6818745
+"401","Coast","Miami","FL, GA, SC, NC",2009,"Mexicans",1857,-80.1917902,25.7616798
+"402","Coast","New Orleans","LA, AL, MS, FL",2009,"Mexicans",2269,-90.0715323,29.9510658
+"403","Coast","Ramey","PR",2009,"Mexicans",2,-78.3972413,40.7981154
+"404","North","Blaine","WA, OR",2009,"Mexicans",524,-93.2349489,45.1607987
+"405","North","Buffalo","NY, PA",2009,"Mexicans",1314,-78.8783689,42.8864468
+"406","North","Detroit","OH, MI, IN, IL",2009,"Mexicans",881,-83.0457538,42.331427
+"407","North","Grand Forks","WI, MN, ND",2009,"Mexicans",311,-97.0328547,47.9252568
+"408","North","Havre","MT",2009,"Mexicans",208,-109.6840887,48.549999
+"409","North","Houlton","ME",2009,"Mexicans",10,-67.8402316,46.1261806
+"410","North","Spokane","MT, ID, WA",2009,"Mexicans",260,-117.4260466,47.6587802
+"411","North","Swanton","NH, VT, NY",2009,"Mexicans",168,-83.8910534,41.5886629
+"412","Southwest","Big Bend","TX",2009,"Mexicans",5573,-103.2425379,29.1274869
+"413","Southwest","Del Rio","TX",2009,"Mexicans",12820,-100.8958674,29.3708857
+"414","Southwest","El Centro","CA",2009,"Mexicans",32602,-115.5630514,32.792
+"415","Southwest","El Paso","NM, TX",2009,"Mexicans",13887,-106.4850217,31.7618778
+"416","Southwest","Laredo","TX",2009,"Mexicans",31831,-99.4803241,27.5305671
+"417","Southwest","Rio Grande Valley","TX",2009,"Mexicans",45051,-97.887797,26.162872
+"418","Southwest","San Diego","CA",2009,"Mexicans",117227,-117.1610838,32.715738
+"419","Southwest","Tucson","AZ",2009,"Mexicans",230045,-110.926479,32.2217429
+"420","Southwest","Yuma","CA, AZ",2009,"Mexicans",6546,-114.6276916,32.6926512
+"421","Coast","Livermore","CA",2010,"All Immigrants",NA,-121.7680088,37.6818745
+"422","Coast","Miami","FL, GA, SC, NC",2010,"All Immigrants",4651,-80.1917902,25.7616798
+"423","Coast","New Orleans","LA, AL, MS, FL",2010,"All Immigrants",3171,-90.0715323,29.9510658
+"424","Coast","Ramey","PR",2010,"All Immigrants",398,-78.3972413,40.7981154
+"425","North","Blaine","WA, OR",2010,"All Immigrants",673,-93.2349489,45.1607987
+"426","North","Buffalo","NY, PA",2010,"All Immigrants",2422,-78.8783689,42.8864468
+"427","North","Detroit","OH, MI, IN, IL",2010,"All Immigrants",1669,-83.0457538,42.331427
+"428","North","Grand Forks","WI, MN, ND",2010,"All Immigrants",543,-97.0328547,47.9252568
+"429","North","Havre","MT",2010,"All Immigrants",290,-109.6840887,48.549999
+"430","North","Houlton","ME",2010,"All Immigrants",56,-67.8402316,46.1261806
+"431","North","Spokane","MT, ID, WA",2010,"All Immigrants",356,-117.4260466,47.6587802
+"432","North","Swanton","NH, VT, NY",2010,"All Immigrants",1422,-83.8910534,41.5886629
+"433","Southwest","Big Bend","TX",2010,"All Immigrants",5288,-103.2425379,29.1274869
+"434","Southwest","Del Rio","TX",2010,"All Immigrants",14694,-100.8958674,29.3708857
+"435","Southwest","El Centro","CA",2010,"All Immigrants",32562,-115.5630514,32.792
+"436","Southwest","El Paso","NM, TX",2010,"All Immigrants",12251,-106.4850217,31.7618778
+"437","Southwest","Laredo","TX",2010,"All Immigrants",35287,-99.4803241,27.5305671
+"438","Southwest","Rio Grande Valley","TX",2010,"All Immigrants",59766,-97.887797,26.162872
+"439","Southwest","San Diego","CA",2010,"All Immigrants",68565,-117.1610838,32.715738
+"440","Southwest","Tucson","AZ",2010,"All Immigrants",212202,-110.926479,32.2217429
+"441","Southwest","Yuma","CA, AZ",2010,"All Immigrants",7116,-114.6276916,32.6926512
+"442","Coast","Livermore","CA",2010,"Mexicans",NA,-121.7680088,37.6818745
+"443","Coast","Miami","FL, GA, SC, NC",2010,"Mexicans",1837,-80.1917902,25.7616798
+"444","Coast","New Orleans","LA, AL, MS, FL",2010,"Mexicans",1941,-90.0715323,29.9510658
+"445","Coast","Ramey","PR",2010,"Mexicans",2,-78.3972413,40.7981154
+"446","North","Blaine","WA, OR",2010,"Mexicans",376,-93.2349489,45.1607987
+"447","North","Buffalo","NY, PA",2010,"Mexicans",1143,-78.8783689,42.8864468
+"448","North","Detroit","OH, MI, IN, IL",2010,"Mexicans",1196,-83.0457538,42.331427
+"449","North","Grand Forks","WI, MN, ND",2010,"Mexicans",388,-97.0328547,47.9252568
+"450","North","Havre","MT",2010,"Mexicans",184,-109.6840887,48.549999
+"451","North","Houlton","ME",2010,"Mexicans",6,-67.8402316,46.1261806
+"452","North","Spokane","MT, ID, WA",2010,"Mexicans",316,-117.4260466,47.6587802
+"453","North","Swanton","NH, VT, NY",2010,"Mexicans",157,-83.8910534,41.5886629
+"454","Southwest","Big Bend","TX",2010,"Mexicans",4754,-103.2425379,29.1274869
+"455","Southwest","Del Rio","TX",2010,"Mexicans",10593,-100.8958674,29.3708857
+"456","Southwest","El Centro","CA",2010,"Mexicans",31704,-115.5630514,32.792
+"457","Southwest","El Paso","NM, TX",2010,"Mexicans",11194,-106.4850217,31.7618778
+"458","Southwest","Laredo","TX",2010,"Mexicans",27957,-99.4803241,27.5305671
+"459","Southwest","Rio Grande Valley","TX",2010,"Mexicans",40732,-97.887797,26.162872
+"460","Southwest","San Diego","CA",2010,"Mexicans",67259,-117.1610838,32.715738
+"461","Southwest","Tucson","AZ",2010,"Mexicans",195921,-110.926479,32.2217429
+"462","Southwest","Yuma","CA, AZ",2010,"Mexicans",6705,-114.6276916,32.6926512
+"463","Coast","Livermore","CA",2011,"All Immigrants",NA,-121.7680088,37.6818745
+"464","Coast","Miami","FL, GA, SC, NC",2011,"All Immigrants",4401,-80.1917902,25.7616798
+"465","Coast","New Orleans","LA, AL, MS, FL",2011,"All Immigrants",1509,-90.0715323,29.9510658
+"466","Coast","Ramey","PR",2011,"All Immigrants",642,-78.3972413,40.7981154
+"467","North","Blaine","WA, OR",2011,"All Immigrants",591,-93.2349489,45.1607987
+"468","North","Buffalo","NY, PA",2011,"All Immigrants",2114,-78.8783689,42.8864468
+"469","North","Detroit","OH, MI, IN, IL",2011,"All Immigrants",1531,-83.0457538,42.331427
+"470","North","Grand Forks","WI, MN, ND",2011,"All Immigrants",468,-97.0328547,47.9252568
+"471","North","Havre","MT",2011,"All Immigrants",270,-109.6840887,48.549999
+"472","North","Houlton","ME",2011,"All Immigrants",41,-67.8402316,46.1261806
+"473","North","Spokane","MT, ID, WA",2011,"All Immigrants",293,-117.4260466,47.6587802
+"474","North","Swanton","NH, VT, NY",2011,"All Immigrants",815,-83.8910534,41.5886629
+"475","Southwest","Big Bend","TX",2011,"All Immigrants",4036,-103.2425379,29.1274869
+"476","Southwest","Del Rio","TX",2011,"All Immigrants",16144,-100.8958674,29.3708857
+"477","Southwest","El Centro","CA",2011,"All Immigrants",30191,-115.5630514,32.792
+"478","Southwest","El Paso","NM, TX",2011,"All Immigrants",10345,-106.4850217,31.7618778
+"479","Southwest","Laredo","TX",2011,"All Immigrants",36053,-99.4803241,27.5305671
+"480","Southwest","Rio Grande Valley","TX",2011,"All Immigrants",59243,-97.887797,26.162872
+"481","Southwest","San Diego","CA",2011,"All Immigrants",42447,-117.1610838,32.715738
+"482","Southwest","Tucson","AZ",2011,"All Immigrants",123285,-110.926479,32.2217429
+"483","Southwest","Yuma","CA, AZ",2011,"All Immigrants",5833,-114.6276916,32.6926512
+"484","Coast","Livermore","CA",2011,"Mexicans",NA,-121.7680088,37.6818745
+"485","Coast","Miami","FL, GA, SC, NC",2011,"Mexicans",1529,-80.1917902,25.7616798
+"486","Coast","New Orleans","LA, AL, MS, FL",2011,"Mexicans",897,-90.0715323,29.9510658
+"487","Coast","Ramey","PR",2011,"Mexicans",3,-78.3972413,40.7981154
+"488","North","Blaine","WA, OR",2011,"Mexicans",314,-93.2349489,45.1607987
+"489","North","Buffalo","NY, PA",2011,"Mexicans",938,-78.8783689,42.8864468
+"490","North","Detroit","OH, MI, IN, IL",2011,"Mexicans",1031,-83.0457538,42.331427
+"491","North","Grand Forks","WI, MN, ND",2011,"Mexicans",294,-97.0328547,47.9252568
+"492","North","Havre","MT",2011,"Mexicans",167,-109.6840887,48.549999
+"493","North","Houlton","ME",2011,"Mexicans",5,-67.8402316,46.1261806
+"494","North","Spokane","MT, ID, WA",2011,"Mexicans",234,-117.4260466,47.6587802
+"495","North","Swanton","NH, VT, NY",2011,"Mexicans",162,-83.8910534,41.5886629
+"496","Southwest","Big Bend","TX",2011,"Mexicans",3621,-103.2425379,29.1274869
+"497","Southwest","Del Rio","TX",2011,"Mexicans",11697,-100.8958674,29.3708857
+"498","Southwest","El Centro","CA",2011,"Mexicans",29474,-115.5630514,32.792
+"499","Southwest","El Paso","NM, TX",2011,"Mexicans",9633,-106.4850217,31.7618778
+"500","Southwest","Laredo","TX",2011,"Mexicans",29131,-99.4803241,27.5305671
+"501","Southwest","Rio Grande Valley","TX",2011,"Mexicans",38353,-97.887797,26.162872
+"502","Southwest","San Diego","CA",2011,"Mexicans",41281,-117.1610838,32.715738
+"503","Southwest","Tucson","AZ",2011,"Mexicans",111974,-110.926479,32.2217429
+"504","Southwest","Yuma","CA, AZ",2011,"Mexicans",5416,-114.6276916,32.6926512
+"505","Coast","Livermore","CA",2012,"All Immigrants",NA,-121.7680088,37.6818745
+"506","Coast","Miami","FL, GA, SC, NC",2012,"All Immigrants",2509,-80.1917902,25.7616798
+"507","Coast","New Orleans","LA, AL, MS, FL",2012,"All Immigrants",474,-90.0715323,29.9510658
+"508","Coast","Ramey","PR",2012,"All Immigrants",702,-78.3972413,40.7981154
+"509","North","Blaine","WA, OR",2012,"All Immigrants",537,-93.2349489,45.1607987
+"510","North","Buffalo","NY, PA",2012,"All Immigrants",1143,-78.8783689,42.8864468
+"511","North","Detroit","OH, MI, IN, IL",2012,"All Immigrants",950,-83.0457538,42.331427
+"512","North","Grand Forks","WI, MN, ND",2012,"All Immigrants",418,-97.0328547,47.9252568
+"513","North","Havre","MT",2012,"All Immigrants",102,-109.6840887,48.549999
+"514","North","Houlton","ME",2012,"All Immigrants",41,-67.8402316,46.1261806
+"515","North","Spokane","MT, ID, WA",2012,"All Immigrants",317,-117.4260466,47.6587802
+"516","North","Swanton","NH, VT, NY",2012,"All Immigrants",702,-83.8910534,41.5886629
+"517","Southwest","Big Bend","TX",2012,"All Immigrants",3964,-103.2425379,29.1274869
+"518","Southwest","Del Rio","TX",2012,"All Immigrants",21720,-100.8958674,29.3708857
+"519","Southwest","El Centro","CA",2012,"All Immigrants",23916,-115.5630514,32.792
+"520","Southwest","El Paso","NM, TX",2012,"All Immigrants",9678,-106.4850217,31.7618778
+"521","Southwest","Laredo","TX",2012,"All Immigrants",44872,-99.4803241,27.5305671
+"522","Southwest","Rio Grande Valley","TX",2012,"All Immigrants",97762,-97.887797,26.162872
+"523","Southwest","San Diego","CA",2012,"All Immigrants",28461,-117.1610838,32.715738
+"524","Southwest","Tucson","AZ",2012,"All Immigrants",120000,-110.926479,32.2217429
+"525","Southwest","Yuma","CA, AZ",2012,"All Immigrants",6500,-114.6276916,32.6926512
+"526","Coast","Livermore","CA",2012,"Mexicans",NA,-121.7680088,37.6818745
+"527","Coast","Miami","FL, GA, SC, NC",2012,"Mexicans",831,-80.1917902,25.7616798
+"528","Coast","New Orleans","LA, AL, MS, FL",2012,"Mexicans",277,-90.0715323,29.9510658
+"529","Coast","Ramey","PR",2012,"Mexicans",0,-78.3972413,40.7981154
+"530","North","Blaine","WA, OR",2012,"Mexicans",270,-93.2349489,45.1607987
+"531","North","Buffalo","NY, PA",2012,"Mexicans",607,-78.8783689,42.8864468
+"532","North","Detroit","OH, MI, IN, IL",2012,"Mexicans",673,-83.0457538,42.331427
+"533","North","Grand Forks","WI, MN, ND",2012,"Mexicans",306,-97.0328547,47.9252568
+"534","North","Havre","MT",2012,"Mexicans",54,-109.6840887,48.549999
+"535","North","Houlton","ME",2012,"Mexicans",8,-67.8402316,46.1261806
+"536","North","Spokane","MT, ID, WA",2012,"Mexicans",266,-117.4260466,47.6587802
+"537","North","Swanton","NH, VT, NY",2012,"Mexicans",122,-83.8910534,41.5886629
+"538","Southwest","Big Bend","TX",2012,"Mexicans",3417,-103.2425379,29.1274869
+"539","Southwest","Del Rio","TX",2012,"Mexicans",12404,-100.8958674,29.3708857
+"540","Southwest","El Centro","CA",2012,"Mexicans",22511,-115.5630514,32.792
+"541","Southwest","El Paso","NM, TX",2012,"Mexicans",8915,-106.4850217,31.7618778
+"542","Southwest","Laredo","TX",2012,"Mexicans",31742,-99.4803241,27.5305671
+"543","Southwest","Rio Grande Valley","TX",2012,"Mexicans",47823,-97.887797,26.162872
+"544","Southwest","San Diego","CA",2012,"Mexicans",27307,-117.1610838,32.715738
+"545","Southwest","Tucson","AZ",2012,"Mexicans",102303,-110.926479,32.2217429
+"546","Southwest","Yuma","CA, AZ",2012,"Mexicans",5919,-114.6276916,32.6926512
+"547","Coast","Livermore","CA",2013,"All Immigrants",NA,-121.7680088,37.6818745
+"548","Coast","Miami","FL, GA, SC, NC",2013,"All Immigrants",1738,-80.1917902,25.7616798
+"549","Coast","New Orleans","LA, AL, MS, FL",2013,"All Immigrants",500,-90.0715323,29.9510658
+"550","Coast","Ramey","PR",2013,"All Immigrants",924,-78.3972413,40.7981154
+"551","North","Blaine","WA, OR",2013,"All Immigrants",360,-93.2349489,45.1607987
+"552","North","Buffalo","NY, PA",2013,"All Immigrants",796,-78.8783689,42.8864468
+"553","North","Detroit","OH, MI, IN, IL",2013,"All Immigrants",650,-83.0457538,42.331427
+"554","North","Grand Forks","WI, MN, ND",2013,"All Immigrants",469,-97.0328547,47.9252568
+"555","North","Havre","MT",2013,"All Immigrants",88,-109.6840887,48.549999
+"556","North","Houlton","ME",2013,"All Immigrants",37,-67.8402316,46.1261806
+"557","North","Spokane","MT, ID, WA",2013,"All Immigrants",299,-117.4260466,47.6587802
+"558","North","Swanton","NH, VT, NY",2013,"All Immigrants",531,-83.8910534,41.5886629
+"559","Southwest","Big Bend","TX",2013,"All Immigrants",3684,-103.2425379,29.1274869
+"560","Southwest","Del Rio","TX",2013,"All Immigrants",23510,-100.8958674,29.3708857
+"561","Southwest","El Centro","CA",2013,"All Immigrants",16306,-115.5630514,32.792
+"562","Southwest","El Paso","NM, TX",2013,"All Immigrants",11154,-106.4850217,31.7618778
+"563","Southwest","Laredo","TX",2013,"All Immigrants",50749,-99.4803241,27.5305671
+"564","Southwest","Rio Grande Valley","TX",2013,"All Immigrants",154453,-97.887797,26.162872
+"565","Southwest","San Diego","CA",2013,"All Immigrants",27496,-117.1610838,32.715738
+"566","Southwest","Tucson","AZ",2013,"All Immigrants",120939,-110.926479,32.2217429
+"567","Southwest","Yuma","CA, AZ",2013,"All Immigrants",6106,-114.6276916,32.6926512
+"568","Coast","Livermore","CA",2013,"Mexicans",NA,-121.7680088,37.6818745
+"569","Coast","Miami","FL, GA, SC, NC",2013,"Mexicans",388,-80.1917902,25.7616798
+"570","Coast","New Orleans","LA, AL, MS, FL",2013,"Mexicans",262,-90.0715323,29.9510658
+"571","Coast","Ramey","PR",2013,"Mexicans",3,-78.3972413,40.7981154
+"572","North","Blaine","WA, OR",2013,"Mexicans",106,-93.2349489,45.1607987
+"573","North","Buffalo","NY, PA",2013,"Mexicans",370,-78.8783689,42.8864468
+"574","North","Detroit","OH, MI, IN, IL",2013,"Mexicans",479,-83.0457538,42.331427
+"575","North","Grand Forks","WI, MN, ND",2013,"Mexicans",337,-97.0328547,47.9252568
+"576","North","Havre","MT",2013,"Mexicans",62,-109.6840887,48.549999
+"577","North","Houlton","ME",2013,"Mexicans",1,-67.8402316,46.1261806
+"578","North","Spokane","MT, ID, WA",2013,"Mexicans",237,-117.4260466,47.6587802
+"579","North","Swanton","NH, VT, NY",2013,"Mexicans",80,-83.8910534,41.5886629
+"580","Southwest","Big Bend","TX",2013,"Mexicans",3174,-103.2425379,29.1274869
+"581","Southwest","Del Rio","TX",2013,"Mexicans",14005,-100.8958674,29.3708857
+"582","Southwest","El Centro","CA",2013,"Mexicans",15141,-115.5630514,32.792
+"583","Southwest","El Paso","NM, TX",2013,"Mexicans",10092,-106.4850217,31.7618778
+"584","Southwest","Laredo","TX",2013,"Mexicans",32772,-99.4803241,27.5305671
+"585","Southwest","Rio Grande Valley","TX",2013,"Mexicans",57624,-97.887797,26.162872
+"586","Southwest","San Diego","CA",2013,"Mexicans",26223,-117.1610838,32.715738
+"587","Southwest","Tucson","AZ",2013,"Mexicans",101092,-110.926479,32.2217429
+"588","Southwest","Yuma","CA, AZ",2013,"Mexicans",5286,-114.6276916,32.6926512
+"589","Coast","Livermore","CA",2014,"All Immigrants",NA,-121.7680088,37.6818745
+"590","Coast","Miami","FL, GA, SC, NC",2014,"All Immigrants",2034,-80.1917902,25.7616798
+"591","Coast","New Orleans","LA, AL, MS, FL",2014,"All Immigrants",950,-90.0715323,29.9510658
+"592","Coast","Ramey","PR",2014,"All Immigrants",958,-78.3972413,40.7981154
+"593","North","Blaine","WA, OR",2014,"All Immigrants",272,-93.2349489,45.1607987
+"594","North","Buffalo","NY, PA",2014,"All Immigrants",741,-78.8783689,42.8864468
+"595","North","Detroit","OH, MI, IN, IL",2014,"All Immigrants",647,-83.0457538,42.331427
+"596","North","Grand Forks","WI, MN, ND",2014,"All Immigrants",767,-97.0328547,47.9252568
+"597","North","Havre","MT",2014,"All Immigrants",91,-109.6840887,48.549999
+"598","North","Houlton","ME",2014,"All Immigrants",45,-67.8402316,46.1261806
+"599","North","Spokane","MT, ID, WA",2014,"All Immigrants",269,-117.4260466,47.6587802
+"600","North","Swanton","NH, VT, NY",2014,"All Immigrants",506,-83.8910534,41.5886629
+"601","Southwest","Big Bend","TX",2014,"All Immigrants",4096,-103.2425379,29.1274869
+"602","Southwest","Del Rio","TX",2014,"All Immigrants",24255,-100.8958674,29.3708857
+"603","Southwest","El Centro","CA",2014,"All Immigrants",14511,-115.5630514,32.792
+"604","Southwest","El Paso","NM, TX",2014,"All Immigrants",12339,-106.4850217,31.7618778
+"605","Southwest","Laredo","TX",2014,"All Immigrants",44049,-99.4803241,27.5305671
+"606","Southwest","Rio Grande Valley","TX",2014,"All Immigrants",256393,-97.887797,26.162872
+"607","Southwest","San Diego","CA",2014,"All Immigrants",29911,-117.1610838,32.715738
+"608","Southwest","Tucson","AZ",2014,"All Immigrants",87915,-110.926479,32.2217429
+"609","Southwest","Yuma","CA, AZ",2014,"All Immigrants",5902,-114.6276916,32.6926512
+"610","Coast","Livermore","CA",2014,"Mexicans",NA,-121.7680088,37.6818745
+"611","Coast","Miami","FL, GA, SC, NC",2014,"Mexicans",277,-80.1917902,25.7616798
+"612","Coast","New Orleans","LA, AL, MS, FL",2014,"Mexicans",465,-90.0715323,29.9510658
+"613","Coast","Ramey","PR",2014,"Mexicans",0,-78.3972413,40.7981154
+"614","North","Blaine","WA, OR",2014,"Mexicans",58,-93.2349489,45.1607987
+"615","North","Buffalo","NY, PA",2014,"Mexicans",294,-78.8783689,42.8864468
+"616","North","Detroit","OH, MI, IN, IL",2014,"Mexicans",431,-83.0457538,42.331427
+"617","North","Grand Forks","WI, MN, ND",2014,"Mexicans",532,-97.0328547,47.9252568
+"618","North","Havre","MT",2014,"Mexicans",51,-109.6840887,48.549999
+"619","North","Houlton","ME",2014,"Mexicans",5,-67.8402316,46.1261806
+"620","North","Spokane","MT, ID, WA",2014,"Mexicans",219,-117.4260466,47.6587802
+"621","North","Swanton","NH, VT, NY",2014,"Mexicans",75,-83.8910534,41.5886629
+"622","Southwest","Big Bend","TX",2014,"Mexicans",3164,-103.2425379,29.1274869
+"623","Southwest","Del Rio","TX",2014,"Mexicans",10196,-100.8958674,29.3708857
+"624","Southwest","El Centro","CA",2014,"Mexicans",12511,-115.5630514,32.792
+"625","Southwest","El Paso","NM, TX",2014,"Mexicans",9904,-106.4850217,31.7618778
+"626","Southwest","Laredo","TX",2014,"Mexicans",26540,-99.4803241,27.5305671
+"627","Southwest","Rio Grande Valley","TX",2014,"Mexicans",63468,-97.887797,26.162872
+"628","Southwest","San Diego","CA",2014,"Mexicans",27871,-117.1610838,32.715738
+"629","Southwest","Tucson","AZ",2014,"Mexicans",68870,-110.926479,32.2217429
+"630","Southwest","Yuma","CA, AZ",2014,"Mexicans",4247,-114.6276916,32.6926512
+"631","Coast","Livermore","CA",2015,"All Immigrants",NA,-121.7680088,37.6818745
+"632","Coast","Miami","FL, GA, SC, NC",2015,"All Immigrants",1752,-80.1917902,25.7616798
+"633","Coast","New Orleans","LA, AL, MS, FL",2015,"All Immigrants",849,-90.0715323,29.9510658
+"634","Coast","Ramey","PR",2015,"All Immigrants",557,-78.3972413,40.7981154
+"635","North","Blaine","WA, OR",2015,"All Immigrants",282,-93.2349489,45.1607987
+"636","North","Buffalo","NY, PA",2015,"All Immigrants",291,-78.8783689,42.8864468
+"637","North","Detroit","OH, MI, IN, IL",2015,"All Immigrants",637,-83.0457538,42.331427
+"638","North","Grand Forks","WI, MN, ND",2015,"All Immigrants",789,-97.0328547,47.9252568
+"639","North","Havre","MT",2015,"All Immigrants",64,-109.6840887,48.549999
+"640","North","Houlton","ME",2015,"All Immigrants",32,-67.8402316,46.1261806
+"641","North","Spokane","MT, ID, WA",2015,"All Immigrants",190,-117.4260466,47.6587802
+"642","North","Swanton","NH, VT, NY",2015,"All Immigrants",341,-83.8910534,41.5886629
+"643","Southwest","Big Bend","TX",2015,"All Immigrants",5031,-103.2425379,29.1274869
+"644","Southwest","Del Rio","TX",2015,"All Immigrants",19013,-100.8958674,29.3708857
+"645","Southwest","El Centro","CA",2015,"All Immigrants",12820,-115.5630514,32.792
+"646","Southwest","El Paso","NM, TX",2015,"All Immigrants",14495,-106.4850217,31.7618778
+"647","Southwest","Laredo","TX",2015,"All Immigrants",35888,-99.4803241,27.5305671
+"648","Southwest","Rio Grande Valley","TX",2015,"All Immigrants",147257,-97.887797,26.162872
+"649","Southwest","San Diego","CA",2015,"All Immigrants",26290,-117.1610838,32.715738
+"650","Southwest","Tucson","AZ",2015,"All Immigrants",63397,-110.926479,32.2217429
+"651","Southwest","Yuma","CA, AZ",2015,"All Immigrants",7142,-114.6276916,32.6926512
+"652","Coast","Livermore","CA",2015,"Mexicans",NA,-121.7680088,37.6818745
+"653","Coast","Miami","FL, GA, SC, NC",2015,"Mexicans",273,-80.1917902,25.7616798
+"654","Coast","New Orleans","LA, AL, MS, FL",2015,"Mexicans",394,-90.0715323,29.9510658
+"655","Coast","Ramey","PR",2015,"Mexicans",1,-78.3972413,40.7981154
+"656","North","Blaine","WA, OR",2015,"Mexicans",67,-93.2349489,45.1607987
+"657","North","Buffalo","NY, PA",2015,"Mexicans",137,-78.8783689,42.8864468
+"658","North","Detroit","OH, MI, IN, IL",2015,"Mexicans",427,-83.0457538,42.331427
+"659","North","Grand Forks","WI, MN, ND",2015,"Mexicans",563,-97.0328547,47.9252568
+"660","North","Havre","MT",2015,"Mexicans",46,-109.6840887,48.549999
+"661","North","Houlton","ME",2015,"Mexicans",1,-67.8402316,46.1261806
+"662","North","Spokane","MT, ID, WA",2015,"Mexicans",153,-117.4260466,47.6587802
+"663","North","Swanton","NH, VT, NY",2015,"Mexicans",43,-83.8910534,41.5886629
+"664","Southwest","Big Bend","TX",2015,"Mexicans",2177,-103.2425379,29.1274869
+"665","Southwest","Del Rio","TX",2015,"Mexicans",10874,-100.8958674,29.3708857
+"666","Southwest","El Centro","CA",2015,"Mexicans",11320,-115.5630514,32.792
+"667","Southwest","El Paso","NM, TX",2015,"Mexicans",10677,-106.4850217,31.7618778
+"668","Southwest","Laredo","TX",2015,"Mexicans",25766,-99.4803241,27.5305671
+"669","Southwest","Rio Grande Valley","TX",2015,"Mexicans",48173,-97.887797,26.162872
+"670","Southwest","San Diego","CA",2015,"Mexicans",24269,-117.1610838,32.715738
+"671","Southwest","Tucson","AZ",2015,"Mexicans",48916,-110.926479,32.2217429
+"672","Southwest","Yuma","CA, AZ",2015,"Mexicans",3845,-114.6276916,32.6926512
+"673","Coast","Livermore","CA",2016,"All Immigrants",NA,-121.7680088,37.6818745
+"674","Coast","Miami","FL, GA, SC, NC",2016,"All Immigrants",3205,-80.1917902,25.7616798
+"675","Coast","New Orleans","LA, AL, MS, FL",2016,"All Immigrants",764,-90.0715323,29.9510658
+"676","Coast","Ramey","PR",2016,"All Immigrants",694,-78.3972413,40.7981154
+"677","North","Blaine","WA, OR",2016,"All Immigrants",271,-93.2349489,45.1607987
+"678","North","Buffalo","NY, PA",2016,"All Immigrants",226,-78.8783689,42.8864468
+"679","North","Detroit","OH, MI, IN, IL",2016,"All Immigrants",716,-83.0457538,42.331427
+"680","North","Grand Forks","WI, MN, ND",2016,"All Immigrants",505,-97.0328547,47.9252568
+"681","North","Havre","MT",2016,"All Immigrants",43,-109.6840887,48.549999
+"682","North","Houlton","ME",2016,"All Immigrants",25,-67.8402316,46.1261806
+"683","North","Spokane","MT, ID, WA",2016,"All Immigrants",206,-117.4260466,47.6587802
+"684","North","Swanton","NH, VT, NY",2016,"All Immigrants",291,-83.8910534,41.5886629
+"685","Southwest","Big Bend","TX",2016,"All Immigrants",6366,-103.2425379,29.1274869
+"686","Southwest","Del Rio","TX",2016,"All Immigrants",23078,-100.8958674,29.3708857
+"687","Southwest","El Centro","CA",2016,"All Immigrants",19448,-115.5630514,32.792
+"688","Southwest","El Paso","NM, TX",2016,"All Immigrants",25634,-106.4850217,31.7618778
+"689","Southwest","Laredo","TX",2016,"All Immigrants",36562,-99.4803241,27.5305671
+"690","Southwest","Rio Grande Valley","TX",2016,"All Immigrants",186830,-97.887797,26.162872
+"691","Southwest","San Diego","CA",2016,"All Immigrants",31891,-117.1610838,32.715738
+"692","Southwest","Tucson","AZ",2016,"All Immigrants",64891,-110.926479,32.2217429
+"693","Southwest","Yuma","CA, AZ",2016,"All Immigrants",14170,-114.6276916,32.6926512
+"694","Coast","Livermore","CA",2016,"Mexicans",NA,-121.7680088,37.6818745
+"695","Coast","Miami","FL, GA, SC, NC",2016,"Mexicans",652,-80.1917902,25.7616798
+"696","Coast","New Orleans","LA, AL, MS, FL",2016,"Mexicans",388,-90.0715323,29.9510658
+"697","Coast","Ramey","PR",2016,"Mexicans",0,-78.3972413,40.7981154
+"698","North","Blaine","WA, OR",2016,"Mexicans",40,-93.2349489,45.1607987
+"699","North","Buffalo","NY, PA",2016,"Mexicans",82,-78.8783689,42.8864468
+"700","North","Detroit","OH, MI, IN, IL",2016,"Mexicans",504,-83.0457538,42.331427
+"701","North","Grand Forks","WI, MN, ND",2016,"Mexicans",352,-97.0328547,47.9252568
+"702","North","Havre","MT",2016,"Mexicans",12,-109.6840887,48.549999
+"703","North","Houlton","ME",2016,"Mexicans",7,-67.8402316,46.1261806
+"704","North","Spokane","MT, ID, WA",2016,"Mexicans",149,-117.4260466,47.6587802
+"705","North","Swanton","NH, VT, NY",2016,"Mexicans",23,-83.8910534,41.5886629
+"706","Southwest","Big Bend","TX",2016,"Mexicans",2728,-103.2425379,29.1274869
+"707","Southwest","Del Rio","TX",2016,"Mexicans",12953,-100.8958674,29.3708857
+"708","Southwest","El Centro","CA",2016,"Mexicans",14361,-115.5630514,32.792
+"709","Southwest","El Paso","NM, TX",2016,"Mexicans",13660,-106.4850217,31.7618778
+"710","Southwest","Laredo","TX",2016,"Mexicans",25337,-99.4803241,27.5305671
+"711","Southwest","Rio Grande Valley","TX",2016,"Mexicans",46334,-97.887797,26.162872
+"712","Southwest","San Diego","CA",2016,"Mexicans",25380,-117.1610838,32.715738
+"713","Southwest","Tucson","AZ",2016,"Mexicans",46494,-110.926479,32.2217429
+"714","Southwest","Yuma","CA, AZ",2016,"Mexicans",3513,-114.6276916,32.6926512
