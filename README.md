@@ -74,7 +74,7 @@ tot <- ggplot(totals, aes(x = Year, y = Number_Arrested, fill = Demographic)) +
           theme_minimal()
 ggplotly(tot)
 ```
-![alt-title](Illegal Immigration Images/Illegal Immigration Arrest Totals by Year.png)
+<iframe width="900" height="800" frameborder="0" scrolling="no" src="//plot.ly/~bryandaetz/8.embed"></iframe>
 
 Looking at the graph, it is clear the overall trend in arrests is decreasing.  The arrest totals in 2016 are significantly lower than they were in 2000, and aside from a spike in 2004 and 2005, they have been decreasing fairly consistently every year. Additionally, it appears that the percentage of these arrests accounted for by Mexican immigrants has been decreasing as well. 
 
