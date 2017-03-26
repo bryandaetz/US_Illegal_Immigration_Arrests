@@ -74,6 +74,7 @@ tot <- ggplot(totals, aes(x = Year, y = Number_Arrested, fill = Demographic)) +
           theme_minimal()
 ggplotly(tot)
 ```
+![alt-title](Illegal Immigration Images/Illegal Immigration Arrest Totals by Year.png)
 
 Looking at the graph, it is clear the overall trend in arrests is decreasing.  The arrest totals in 2016 are significantly lower than they were in 2000, and aside from a spike in 2004 and 2005, they have been decreasing fairly consistently every year. Additionally, it appears that the percentage of these arrests accounted for by Mexican immigrants has been decreasing as well. 
 
@@ -153,6 +154,10 @@ border("North", "Illegal Immigration Arrests at Northern Border")
 border("Southwest", "Illegal Immigration Arrests at Southwest Border")
 
 ```
+![alt-title](Illegal Immigration Images/Coast Arrests.png)
+![alt-title](Illegal Immigration Images/Northern Border Arrests.png)
+![alt-title](Illegal Immigration Images/Southwest Border Arrests.png)
+
 The majority of arrests have clearly occured along the Southwest Border.
 Additionally, the percentage of arrests accounted for by Mexican immigrants is clearly lower for the Coast and North borders than it is for the Southwest border.  This is unsurprising considering that this is the United States/Mexican border.  It is surpising, however, to see that there were still a decent amount of Mexican immigrants that were arrested along the United States/Canadian border (North).  The data set didn't specify the nature of any of the arrests so I can only speculate about how this could have occured. It is possible that these people had illegally immigrated from Mexico earlier and were living in the northern United States when they were later arrested by the border patrol there, but it is impossible to confirm this theory with the data I have currently.
 
@@ -268,6 +273,8 @@ Here I am just going to show the visualizations for 2016.
 barPlot(2016)
 mapPlot(2016)
 ```
+![alt-title](Illegal Immigration Images/Sectors with Most Arrests '16.png)
+![alt-title](Illegal Immigration Images/Arrests Map 2016.png)
 
 The circles on the U.S. map scale to the number of arrests in that sector (i.e. bigger circle = more arrests).  In 2016, Rio Grande Valley, Texas had the most arrests by far, although interestingly only a small portion of the arrests were accounted for by Mexican immigrants. It would be interesting to see what other countries the illegal immigrants that were arrested there came from, but unfortunately the data set did not contain that information.
 
