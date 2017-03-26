@@ -27,20 +27,25 @@ The original data set needs to be cleaned before any useful visualizations can b
 
 ```
 #Importing Illegal Immigration data set from Kaggle
+
 arrests <- read.csv("arrests.csv")
 
 #attempting to clean the untidy dataframe
+
 arrests <- gather(arrests, Description, Number_Arrested, -Border, -Sector, -State.Territory)
 arrests <- separate(arrests, Description, c("Year", "Demographic"))
 
 #removing the X's from the Year column
+
 arrests$Year <- gsub(pattern = "X", replacement = "", x = arrests$Year)
 
 #the Year column is currently a character vector and we need it to be a numerical vector to be able to create
 #meaningful graphs
+
 arrests$Year <- as.integer(arrests$Year)
 
 #changing "All" in the Demographic column to "All Immigrants" to make it more clear
+
 arrests$Demographic <- str_replace(arrests$Demographic, "All", "All Immigrants")
 ```
 
@@ -57,12 +62,14 @@ First, I want to take a look at the yearly illegal immigration arrest totals in 
 ```
 #creating a new dataframe with yearly arrest totals
 #it appears the original dataframe already included totals as observations where Border == United States
+
 totals <- arrests %>%
               group_by(Year, Demographic) %>%
               filter(Border == "United States") %>%
               arrange(Demographic)
 
 #creating an area plot comparing yearly arrest totals of all immigrants and of only mexican immigrants 
+
 tot <- ggplot(totals, aes(x = Year, y = Number_Arrested, fill = Demographic)) +
           geom_area(alpha = 0.65, position = "dodge") +
           scale_fill_manual(values = c("skyblue1", "skyblue4")) +
@@ -80,11 +87,13 @@ To get a better understanding of the exact percentage each year I'm going to cre
 ```
 #creating separate dataframes with just "Mexicans" arrests and just "All Immigrants" arrests to find the percentage
 # of arrests accounted for by Mexican immigrants each year
+
 mexican_arrests <-  filter(arrests, Border == "United States", Demographic == "Mexicans")
 all_arrests <- filter(arrests, Border == "United States", Demographic == "All Immigrants")
 
 #creating a new dataframe with these percentages (rounded to 2 decimal places) as well as the number of Mexican
 # immigrants arrested and the total number of arrests for each year
+
 percentages <- data.frame(all_arrests$Year, 
                           mexican_arrests$Number_Arrested,
                           all_arrests$Number_Arrested,
@@ -120,16 +129,18 @@ percentages
 
 Next, I would like to take a look at the yearly arrest totals at each of the three borders in the data set: Coast, North and Southwest. To avoid rewriting the same code multiple times for each border I've chosen to instead write function that will allow me to input a given border and output a graph of the yearly arrest totals for that border.
 
-```{r warning = FALSE, fig.height = 6, fig.width = 10}
+```
 
 #creating a new dataframe with yearly arrest totals by border
 #again the original dataframe already included this totals as observations where Sector == All
+
 by_border <- arrests %>%
                   group_by(Year, Demographic) %>%
                   filter(Sector == "All") %>%
                   arrange(Demographic)
 
 #Writing a function that will create a graph for a given border
+
 border <- function(x, label) {
 t <- ggplot(filter(by_border, Border == x), 
                 aes(x = Year, y = Number_Arrested, fill = Demographic)) +
@@ -156,8 +167,9 @@ The last element of the data set that I'd like to explore is the sectors with th
 
 In any case, the first step is to create bar plots showing the sectors with the most arrests each year.  In earlier iterations of the project, I considered using a facet wrap to show the plots for each year side by side, but since the data spans 17 years, this approach proved to be too cluttered and difficult to read.  I also considered having the bar plots show the arrest totals for all 21 sectors, but again this made them extremely cluttered.  My solution was to write a function that finds the sectors with the 8 highest arrest totals for a given year and displays them on a bar plot.
 
-``` {r}
+``` 
 #creating a function to show a bar graph of the 8 sectors with the highest arrest totals for a given year
+
 yearPlot <- function(yr, title = paste("Sectors with the Highest Arrest Totals in", as.character(yr))) {
     temp <- filter(arrests, Sector != "", Sector != "All", Year == yr) #filtering out rows that don't apply to
                                                                         # to a specific Sector
@@ -177,6 +189,7 @@ yearPlot <- function(yr, title = paste("Sectors with the Highest Arrest Totals i
     
     
     #creating a bar plot comparing the arrest totals for all illegal immigrants and for only mexican immigrants
+
     plot <- ggplot(temp, aes(x = Sector, y = Number_Arrested, fill = Demographic)) +
                 geom_bar(stat = "identity", position = "identity", alpha = .65) +
                 scale_fill_manual(values = c("skyblue4", "skyblue1")) +
@@ -194,17 +207,23 @@ Since the bar plots will only show the arrest totals for 8 of the 21 sectors eac
 
 ```
 #creating a vector with all the different sectors
+
 Sector <- levels(arrests$Sector)
+
 #taking out the sectors "All" and "" which are used for totals and aren't actual individual sectors
+
 Sector <- Sector[3:length(Sector)]
 
 #using the geocode command to get the latitude and longitude for each sector
+
 locations <- data.frame(Sector, geocode(Sector, output = "latlon"))
 
 #subset of arrests dataframe with only the rows for individual sectors, no totals
+
 arrests2 <- filter(arrests, Sector != "", Sector != "All")
 
 #merging the arrests2 and locations dataframes to get the latitude and longitude information for each Sector
+
 arrests_loc <- join(x = arrests2, y = locations,
                     by = "Sector", type = "left")
 write.csv(arrests_loc, file = "arrestLocations.csv")
@@ -212,15 +231,17 @@ write.csv(arrests_loc, file = "arrestLocations.csv")
 
 ```
 #importing csv file with locations to avoid having to run the geocode command more than once
+
 arrests_loc <- read.csv("arrestLocations.csv")
 ```
 
 I found the code that I am using to import a blank U.S. map on the 
 `plotly` documentation [website](https://plot.ly/r/scatter-plots-on-maps/).  After importing the map, the next step is to write a function, similar to what I did for the bar plots, that will plot all the sectors (with information on the arrest totals) on the map for a given year.
 
-```{r}
+```
 # getting a map of the United States to show the areas with the most arrests
 # this was the example US map from the plotly documentation page
+
 g <- list(
   scope = "usa",
   projection = list(type = "albers usa"),
@@ -233,6 +254,7 @@ g <- list(
 )
 
 #creating a function to create a map of the areas with the most arrests for a given year
+
 mapPlot <- function(yr) {
         tmp <- filter(arrests_loc, Year == yr)
         p <- plot_geo(tmp, lat = ~lat, lon = ~lon, 
@@ -263,7 +285,5 @@ The circles on the U.S. map scale to the number of arrests in that sector (i.e. 
 ## Final Thoughts
 
 While the data set did have its limitations, it is undeniable that the number of U.S. illegal immigration arrests has been decreasing over the past 17 years. I was able to create some useful visualizatons comparing the number of arrests for the two demographics that I had data for.  Unfortunately, the All Illegal Immigrants demographic was rather vague. I was able to conclude that the percentage of border patrols arrests accounted for by Mexicans has decreased significantly, but it is unclear what other countries the immigrants that were arrested originated from.
-
-
 
 
