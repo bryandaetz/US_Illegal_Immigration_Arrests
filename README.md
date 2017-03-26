@@ -27,25 +27,20 @@ The original data set needs to be cleaned before any useful visualizations can b
 
 ```
 #Importing Illegal Immigration data set from Kaggle
-
 arrests <- read.csv("arrests.csv")
 
 #attempting to clean the untidy dataframe
-
 arrests <- gather(arrests, Description, Number_Arrested, -Border, -Sector, -State.Territory)
 arrests <- separate(arrests, Description, c("Year", "Demographic"))
 
 #removing the X's from the Year column
-
 arrests$Year <- gsub(pattern = "X", replacement = "", x = arrests$Year)
 
 #the Year column is currently a character vector and we need it to be a numerical vector to be able to create
 #meaningful graphs
-
 arrests$Year <- as.integer(arrests$Year)
 
 #changing "All" in the Demographic column to "All Immigrants" to make it more clear
-
 arrests$Demographic <- str_replace(arrests$Demographic, "All", "All Immigrants")
 ```
 
@@ -207,23 +202,18 @@ Since the bar plots will only show the arrest totals for 8 of the 21 sectors eac
 
 ```
 #creating a vector with all the different sectors
-
 Sector <- levels(arrests$Sector)
 
 #taking out the sectors "All" and "" which are used for totals and aren't actual individual sectors
-
 Sector <- Sector[3:length(Sector)]
 
 #using the geocode command to get the latitude and longitude for each sector
-
 locations <- data.frame(Sector, geocode(Sector, output = "latlon"))
 
 #subset of arrests dataframe with only the rows for individual sectors, no totals
-
 arrests2 <- filter(arrests, Sector != "", Sector != "All")
 
 #merging the arrests2 and locations dataframes to get the latitude and longitude information for each Sector
-
 arrests_loc <- join(x = arrests2, y = locations,
                     by = "Sector", type = "left")
 write.csv(arrests_loc, file = "arrestLocations.csv")
@@ -231,7 +221,6 @@ write.csv(arrests_loc, file = "arrestLocations.csv")
 
 ```
 #importing csv file with locations to avoid having to run the geocode command more than once
-
 arrests_loc <- read.csv("arrestLocations.csv")
 ```
 
